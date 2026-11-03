@@ -149,6 +149,19 @@ repos (health, money, career, family matters) is ever written here.
 12. **Language.** Talk to Jayasri in the language she writes in; files stay in
    English so the hub can read them.
 
+## Showing Vamsi the plan — one format
+
+When Vamsi asks for the plan ("what is planned", "show me the two weeks",
+"the plan"), show it as **one table, a row per day, a column per thread**
+(Vamsi, 2026-11-03: *"that format is good — whenever I ask, give it in that
+format so we can discuss"*):
+
+| Day | Orphanage / current event | Schools | Video / other |
+
+Short phrases per cell, "—" where empty, days off as 🏖️, the event day as 🎪.
+This is the discussion view; `week-plan.md` stays the source with the
+numbered, timed tasks.
+
 ## Skills and hooks — how the coach runs
 
 | Say | Skill |

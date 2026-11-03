@@ -15,3 +15,5 @@ description: The Sunday 15-minute review — count the week's completion, write 
 6. **Month end** (last Sunday of the month or later) → `numbers` skill for the monthly row.
 7. **Vamsi asking "how is Jayasri doing?"** (his weekly sitting with the hub agent) → the last 4 rows of `progress.md`: completion %, active days, what was skipped and where, and **one concrete "improve next week" suggestion** — this is the discussion that shapes next week's plan. It is between Vamsi and the agent; in her session it only ever arrives as the plan.
 8. Commit `plan: week N` and push.
+
+When showing Vamsi the plan (this week or next), use the day × thread table from `CLAUDE.md` → "Showing Vamsi the plan".
