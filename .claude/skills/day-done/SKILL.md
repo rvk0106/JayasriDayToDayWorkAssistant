@@ -8,8 +8,8 @@ description: Close Jayasri's working day — consolidate everything she did into
 1. **Gather today** from the session and the files: start time, every task
    touched (✅ done, ↔ swapped, ⏭ carried), calls made and their outcomes,
    anything posted, numbers reported, questions she asked, blockers.
-2. **Write the summary block** at the end of today's entry in
-   `updates/<YYYY-MM>/week-<N>.md`, after the category sections:
+2. **Write the summary block** as today's entry in this repo's
+   `updates/<YYYY-MM>/week-<N>.md` (create `## 📅 YYYY-MM-DD (Weekday)` if missing):
 
    ```
    ### 🌙 Day summary
@@ -20,9 +20,10 @@ description: Close Jayasri's working day — consolidate everything she did into
    - Blockers ⛔: <one line or "none">
    - Tomorrow: <the next row from week-plan.md>
    ```
-   Five to seven lines, past tense, no commentary. If a category section
-   above still shows `- _No updates_` for something she did, fix the bullet
-   there first — the summary re-presents, it does not replace.
+   Five to seven lines, past tense, no commentary. The diary bullets live in
+   `DailyUpdates/Jayasri/<Month>/week-<N>.md` — check every done task has one
+   there first (the `done` skill writes them); the summary re-presents, it
+   does not replace. Both repos committed and pushed.
 3. **Reconcile the files:** every done task has ✅ in `week-plan.md`; carried
    tasks are marked ⏭ and moved to the next free day; `progress.md` is left
    for Sunday.

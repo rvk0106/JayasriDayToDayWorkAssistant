@@ -39,8 +39,9 @@ session; call the other skills as steps, not as separate conversations.
   remains at the end, she finishes in her own time.
 
 ## 4. Close every finished task  →  `done`
-- ✅ in `week-plan.md`, a bullet in today's log, metrics/school-list updates,
-  commit on `main`, push. Then say what is next, or "that's today".
+- Diary bullet in `DailyUpdates/Jayasri/<Month>/week-N.md` (mapped category,
+  milestone ticked), ✅ in `week-plan.md`, metrics/school-list updates; both
+  repos committed on `main` and pushed. Then say what is next, or "that's today".
 - A visit happened → `visit-log` the same day.
 
 ## 5. "I'm done for the day"  →  `day-done`
@@ -53,7 +54,7 @@ session; call the other skills as steps, not as separate conversations.
 ## Always
 - Work questions only. Never a judgmental one (why not, how do you feel,
   are you motivated) — that goes to `questions-for-vamsi.md`, for Vamsi.
-- `life-hq-` in the session → it is Vamsi; this repo alone → it is Jayasri.
+- `DailyUpdates` + this repo → Jayasri · `life-hq-` also present → Vamsi.
 - One task at a time. Short messages, the task first.
 - Her language in, her language out; files in English.
 - Celebrate the specific thing once; name a slip once; move on.

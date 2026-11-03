@@ -1,6 +1,6 @@
 # Jayasri — daily log · November 2026 · Week 1 (Nov 1 – Nov 7)
 
-> One entry per day she works. Categories from `templates/categories.txt`. The coach writes here; the evening sweep reads here.
+> One 🌙 Day summary per day she works (the `day-done` skill). Her diary bullets by category live in `DailyUpdates/Jayasri/<Month>/week-N.md`.
 
 ## 📅 2026-11-03 (Tuesday)
 
