@@ -58,11 +58,11 @@ Vamsi's.
 | Day | Tasks, in order (≈ time) | Playbook | Status |
 |---|---|---|---|
 | Mon Nov 9 | 1. Call schools that replied, ask for a 15-min meeting (45 min) · 2. Orphanage: corrections from Vamsi applied, final question sets sent to him (30 min) | `school-outreach.md` §2 · `clip-edit-and-post.md` | |
-| Tue Nov 10 | 1. Generic Skoolyng deck: school name/date placeholders, check every slide (60 min) · 3. Review the Decode Locker as a child would (45 min) · 4. Find 3 more Sattupalli/Khammam government schools with phone numbers (40 min) | `deck-prep.md` §4 · `kit-review.md` | |
+| Tue Nov 10 | 1. Generic Skoolyng deck: school name/date placeholders, check every slide (60 min) · 2. Review the Decode Locker as a child would (45 min) · 3. Find 3 more Sattupalli/Khammam government schools with phone numbers (40 min) | `deck-prep.md` §4 · `kit-review.md` | |
 | Wed Nov 11 | 1. School follow-ups (30 min) · 2. **Video 2: edit and upload** (rest of the day) | `clip-edit-and-post.md` · `school-outreach.md` §3 | |
 | Thu Nov 12 | 1. Video 2: finish and upload if not done; post to Instagram (45 min) · 2. Orphanage: print decks + path sheets, cut, pouch; teacher cards + cheat sheet (60 min) · 3. Deck for the grades of any school that fixed a meeting (60 min) · 4. Call 2 activity centres (30 min) · 5. School list update (20 min) | `deck-prep.md` §2–3 | |
 | Fri Nov 13 | 1. Follow-ups (30 min) · 2. Orphanage: question sets checked against Vamsi's generated cards, fixes noted (60 min) · 3. Find 3 more Sattupalli/Khammam government schools with phone numbers (40 min) | run-up · `school-outreach.md` | |
-| Sat Nov 14 | 1. 🗓️ Shortlist done: 5 schools with contact status noted, sent to Vamsi (30 min) · 3. Orphanage: energiser/warm-up props; gifts, chocolates, snacks for 53 + spare listed and ordered (45 min) · 4. Week wrap for Sunday (30 min) | `kit-review.md` §2 | |
+| Sat Nov 14 | 1. 🗓️ Shortlist done: 5 schools with contact status noted, sent to Vamsi (30 min) · 2. Orphanage: energiser/warm-up props; gifts, chocolates, snacks for the headcount + spare, listed and ordered (45 min) · 3. Week wrap for Sunday (30 min) | `kit-review.md` §2 | |
 
 ## Week 3 · Nov 15 – Nov 21 (outline — orphanage week)
 
