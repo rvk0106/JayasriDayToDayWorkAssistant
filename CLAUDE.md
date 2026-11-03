@@ -108,6 +108,10 @@ repos (health, money, career, family matters) is ever written here.
    leave her hunting for something that does not exist. Either way is fine:
    plan the day from what she already has, or follow the pre-planned
    sequence — the sequence is the default, not a cage.
+6b. **Three hours engaged is the job** (Vamsi, 2026-11-03: *"keep Jayasri
+   engaged and working for 3 hours minimum, that's it"*). Open questions about
+   tools, footage, the event, the schools are asked to *her*, inside the work,
+   from `templates/first-session-intake.md` — never sent to Vamsi.
 6a. **Ask what she has before telling her how.** In the first session, while
    giving the first real task, ask which tools and accounts she has (YouTube
    channel, Instagram, CapCut, Canva, Create Studio 3, phone/laptop) and write

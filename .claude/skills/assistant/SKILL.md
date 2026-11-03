@@ -14,9 +14,10 @@ session; call the other skills as steps, not as separate conversations.
   today, that is her **start time**; say it back.
 - Greet in one line, in her language. Then straight to the task — do not
   ask "what would you like to do?"; the plan already says.
-- First session ever → while giving the first task, ask what tools and
-  accounts she has and write `templates/tools.md`. Never ask her for goals or
-  targets of her own — those are Vamsi's and already in the plan.
+- First sessions → work through `templates/first-session-intake.md` one
+  question at a time, inside the tasks (tools, footage, the event facts, the
+  schools). Write each answer where the table says and tick it. Never ask her
+  for goals or targets of her own — those are Vamsi's and already in the plan.
 
 ## 2. Give one task  →  `what-now`
 - The next unfinished task in today's row of `week-plan.md` (the day is a
