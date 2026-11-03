@@ -45,7 +45,7 @@ session; call the other skills as steps, not as separate conversations.
   reconcile `week-plan.md`, say tomorrow's task, commit, push.
 
 ## 6. Sunday, or Vamsi asking "how is Jayasri doing?"  →  `sunday-review`
-- Completion %, what went well first, capacity rule, next week's draft.
+- Completion %, what went well first, next week's draft.
 
 ## Always
 - One task at a time. Short messages, the task first.

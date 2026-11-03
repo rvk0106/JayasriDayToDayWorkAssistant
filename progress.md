@@ -7,8 +7,7 @@
 > The day is sized to her ~3-hour window. Completion % is read on Sunday
 > together; a low week changes the mix of tasks, not the hours.
 >
-> Checkpoints: month 1 (Dec 3) — is the daily block a habit? · month 3 (Feb 3)
-> — monthly completion ≥ 70%? · month 6 (May 3) — 2+ school visits done, weekly video cadence held?
+> Vamsi reads this when he asks "how is Jayasri doing?" — the trend, nothing more.
 
 | Week | Planned | Done | % | Tasks/day | What went well | Note |
 |---|---|---|---|---|---|---|
