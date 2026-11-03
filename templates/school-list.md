@@ -4,7 +4,7 @@
 
 | # | School | Area (Hyderabad / Khammam / Sattupalli) | Grades | Contact (name · phone) | How we know them | Status | Last touch | Next step · date | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| 0 | (orphanage pilot) | | | | Vamsi | 📅 Sat 2026-11-21 afternoon | | confirm call Nov 5 | group size, ages, room, photo permission |
+| 0 | (orphanage pilot) | | | | Vamsi | 📅 Sat 2026-11-21 afternoon | 2026-11-03 called, confirmed | reminder message Fri Nov 20 | ~53 children; material prep in week-plan |
 | 1 | | | | | | 📝 | | | |
 | 2 | | | | | | 📝 | | | |
 | 3 | | | | | | 📝 | | | |
