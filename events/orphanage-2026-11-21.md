@@ -30,7 +30,8 @@
 - Gifts — **no stationery** (Srinivas garu asked; the home wanted groceries) ✅
   - For the home: **one 25 kg rice bag** ✅
   - For the children: **cut fruit as the evening snack** — guava, apple, banana or watermelon ✅
-  - Children's small gift (not stationery): 🔄 choosing from the coach's ideas
+  - **Magic Box: one box for all 5 teams — the first team to open it wins the box gifts** (~10–11 children) ✅ (Jayasri)
+  - Box gifts for the winning team + something for every other child: 🔄 deciding (coach's idea: special gift ×12 in the box, a small healthy gift such as chikki for everyone)
 
 ## Material list (derived once the plan is final)
 - [ ]
