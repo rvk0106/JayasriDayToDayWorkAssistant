@@ -5,7 +5,8 @@
 > Status: 🔄 draft — not yet finalised.
 
 ## Facts (from the call, 3 Nov)
-- Children: ~53 · ages/grades: _to fill_ · room: _to fill_ · photo/video permission: _to fill_
+- Children: 53 · ages 5–15 · up to Grade 5: ~30 · Grades 5–10: ~15 (remaining ~8: _to confirm_) · room: _to fill_
+- Photos: ✅ allowed (Jayasri, from the call) · video: _to confirm_
 - Contact on the day: _name, phone_
 
 ## Run order (draft — decide each step)
