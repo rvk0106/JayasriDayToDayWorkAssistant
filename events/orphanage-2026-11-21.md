@@ -17,7 +17,7 @@
 | 3 | Story + 2 questions | 10 | Vamsi tells · Jayasri organises | story in Telugu (Vamsi picks) | ✅ keep |
 | 4 | Warm-up — how-to-play demo: one sample question in front of everyone, how to write the number answer, how to get the next card | 5 | Vamsi | 1 sample question card | ✅ keep |
 | 5 | Magic Box treasure hunt — Grade 1 / 5 / 10 questions per team, combined code | 30 | Vamsi drives, Jayasri the table | decks, path sheets, box | |
-| 6 | Gifts, chocolates, snacks | 5 | | counts | |
+| 6 | Rice bag handed to the home · cut-fruit snack for the children | 5 | | 25 kg rice · fruit for 53 + spare | ✅ changed (no stationery) |
 
 ## Decisions (Jayasri)
 - Teams and colours: **5 teams** — Red, Blue, Green, Yellow, Orange ✅
@@ -27,7 +27,10 @@
 - Story: **Vamsi picks the story and tells it** (with its 2 questions); Jayasri organises ✅
 - Warm-up: **how-to-play demo** with one sample question — Vamsi leads it ✅
 - Energiser: **clap-pattern repeat** (Vamsi + Jayasri decided) — Vamsi leads it ✅
-- Gifts: _Jayasri's proposal — what, how many, rough cost_ (she thinks it through; Vamsi weighs in on the weekend)
+- Gifts — **no stationery** (Srinivas garu asked; the home wanted groceries) ✅
+  - For the home: **one 25 kg rice bag** ✅
+  - For the children: **cut fruit as the evening snack** — guava, apple, banana or watermelon ✅
+  - Children's small gift (not stationery): 🔄 choosing from the coach's ideas
 
 ## Material list (derived once the plan is final)
 - [ ]
