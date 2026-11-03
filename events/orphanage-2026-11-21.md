@@ -2,7 +2,7 @@
 
 > Jayasri's event plan, finalised with the coach on Tue 3 Nov. The draft below
 > is Vamsi's from end of October; every line is hers to keep or change.
-> Status: 🔄 draft — not yet finalised.
+> Status: ✅ finalised by Jayasri, Tue 3 Nov — open only: question count (3 or 5), story, Srinivas garu's phone (all with Vamsi, `questions-for-vamsi.md`).
 
 ## Facts (from the call, 3 Nov)
 - Children: 53 · ages 5–15 · up to Grade 5: ~30 · Grades 6–10: ~23 · room: cellar, children sit on the floor — no tables
@@ -12,12 +12,12 @@
 ## Run order (draft — decide each step)
 | # | Step | Minutes | Who | Needs | Keep / change |
 |---|---|---|---|---|---|
-| 1 | Groups by colour | 5 | Jayasri | colour bands/cards | |
+| 1 | Groups by colour (with Srinivas garu's help) | 5 | Jayasri + Srinivas garu | colour bands/cards | ✅ keep |
 | 2 | Energiser — clap-pattern repeat | 5 | Vamsi | nothing | ✅ keep |
 | 3 | Story + 2 questions | 10 | Vamsi tells · Jayasri organises | story in Telugu (Vamsi picks) | ✅ keep |
 | 4 | Warm-up — how-to-play demo: one sample question in front of everyone, how to write the number answer, how to get the next card | 5 | Vamsi | 1 sample question card | ✅ keep |
-| 5 | Magic Box treasure hunt — Grade 1 / 5 / 10 questions per team, combined code | 30 | Vamsi drives, Jayasri the table | decks, path sheets, box | |
-| 6 | Rice bag handed to the home · cut-fruit snack for the children | 5 | | 25 kg rice · fruit for 53 + spare | ✅ changed (no stationery) |
+| 5 | Magic Box treasure hunt — one box, first team to open it wins; questions one card at a time | 30 | Vamsi drives, Jayasri the table | question cards, path sheets, box | ✅ keep (3 or 5 questions — Vamsi) |
+| 6 | Chikki for every child · rice bag handed to the home · cut-fruit snack for the children | 5 | | 60 chikki · 25 kg rice · fruit for 53 + spare | ✅ changed (no stationery) |
 
 ## Decisions (Jayasri)
 - Teams and colours: **5 teams** — Red, Blue, Green, Yellow, Orange ✅
@@ -31,10 +31,33 @@
   - For the home: **one 25 kg rice bag** ✅
   - For the children: **cut fruit as the evening snack** — guava, apple, banana or watermelon ✅
   - **Magic Box: one box for all 5 teams — the first team to open it wins the box gifts** (~10–11 children) ✅ (Jayasri)
-  - Box gifts for the winning team + something for every other child: 🔄 deciding (coach's idea: special gift ×12 in the box, a small healthy gift such as chikki for everyone)
+  - Inside the box (winning team): **a small chocolate packet each — 12** (10–11 + 1 spare) ✅
+  - For every child at the end ("everyone played well"): **a chikki packet — 60** ✅
 
-## Material list (derived once the plan is final)
-- [ ]
+Run order total ≈ 60 min (draft minutes kept — Jayasri, 3 Nov).
+
+## Material list (derived from the plan, 3 Nov)
+**Teams**
+- [ ] Colour bands/cards — Red, Blue, Green, Yellow, Orange, 12 each (60)
+
+**Treasure hunt** (prep Thu Nov 12)
+- [ ] Question cards per team (3 or 5 × 5 teams, once Vamsi decides), each marked who answers (small / big children)
+- [ ] Path sheets, printed, cut, pouched by colour
+- [ ] 1 sample question card for Vamsi's warm-up demo
+- [ ] 5 pencils or markers (one per team, for writing the number answers — activity only, not a gift)
+- [ ] 5 hard boards / chart sheets to write on (children sit on the floor — no tables)
+- [ ] Magic Box with the code set (Vamsi)
+
+**Gifts and food** (buy/order by Sat Nov 14)
+- [ ] 12 small chocolate packets — inside the box
+- [ ] 60 chikki packets — for every child
+- [ ] Fruit for ~60: guava / apple / banana / watermelon
+- [ ] Knife, cutting board, 60 paper plates, tissues, a waste bag
+- [ ] 25 kg rice bag — for the home
+- [ ] Drinking water
+
+**On the day**
+- [ ] Phone/camera for photos (permission given)
 
 ## For Vamsi (R&D only)
 - card generator run with the final sets · box firmware/tags · combined-code setup

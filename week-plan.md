@@ -28,7 +28,7 @@ Vamsi's.
 
 | When | Jayasri does | Status |
 |---|---|---|
-| Tue Nov 3 | Session plan finalised with the coach → `events/orphanage-2026-11-21.md`; material list derived from it | |
+| Tue Nov 3 | Session plan finalised with the coach → `events/orphanage-2026-11-21.md`; material list derived from it | ✅ |
 | Wed Nov 4 | Grade 1 question set, per team colour, as the plan says | |
 | Wed Nov 4 | Grade 5 and Grade 10 question sets too — all three sets to Vamsi before Goa (`questions-for-vamsi.md` row) | |
 | Tue Nov 10 | Story + its 2 questions, in Telugu, read aloud once and timed | |
@@ -53,7 +53,7 @@ Vamsi's.
 
 | Day | Tasks, in order (≈ time) | Playbook | Status |
 |---|---|---|---|
-| Tue Nov 3 | 1. Tell the coach which tools/accounts you have, and **what footage is on hand** (10 min) · 2. **Orphanage session plan** — go through the draft with the coach, decide every open point, finalise `events/orphanage-2026-11-21.md`, derive the material list (60–75 min) · 3. **Sattupalli first:** list 5 public/government schools there for December — name, grades, a contact (Vamsi's father's contacts first) (45 min) · 4. Telugu intro message for schools, 4 lines (30 min) · 5. **Video 1: edit the footage on hand and upload to Tutorcross** (rest of the day; carries over) | run-up above · `school-outreach.md` §1–2 | 1 ✅ (footage: Yashvi candle-light experiment — half on her phone, half on the camera) |
+| Tue Nov 3 | 1. Tell the coach which tools/accounts you have, and **what footage is on hand** (10 min) · 2. **Orphanage session plan** — go through the draft with the coach, decide every open point, finalise `events/orphanage-2026-11-21.md`, derive the material list (60–75 min) · 3. **Sattupalli first:** list 5 public/government schools there for December — name, grades, a contact (Vamsi's father's contacts first) (45 min) · 4. Telugu intro message for schools, 4 lines (30 min) · 5. **Video 1: edit the footage on hand and upload to Tutorcross** (rest of the day; carries over) | run-up above · `school-outreach.md` §1–2 | 1 ✅ (footage: Yashvi candle-light experiment — half on her phone, half on the camera) · 2 ✅ orphanage plan finalised + material list |
 | Wed Nov 4 | 1. **Orphanage: Grade 1, Grade 5 and Grade 10 question sets** — per team colour, as the finalised plan says; all three to Vamsi via `questions-for-vamsi.md` so the cards are generated during Goa (2 h) · 2. Message schools 1 and 2 with the intro (20 min) · 3. Video 1: continue / upload if close (rest) | run-up · `school-outreach.md` §2 | |
 | Thu Nov 5 | 🏖️ Travel day — bus 18:45. No tasks. (If video 1 is one step from upload, upload it; otherwise it waits.) | — | |
 | Fri Nov 6 – Mon Nov 9 | 🏖️ Goa — no tasks, no check-ins. Mon Nov 9 = arrival morning, off. | — | |
