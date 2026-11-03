@@ -8,7 +8,7 @@
 
 | Metric | Now (Nov 3, 2026) | Dec 31, 2026 | Dec 31, 2027 |
 |---|---|---|---|
-| Skoolyng YouTube subscribers | 0 | **500 min** · 2000 stretch | **15,000–20,000** |
+| Skoolyng YouTube subscribers | 4–5 | **500 min** · 2000 stretch | **15,000–20,000** |
 | Tutorcross YouTube subscribers | 1,000+ | one video every 2 weeks | **2,000–3,000 min** |
 | Schools covered (bus visits, 3–4 a month from Dec) | 0 | **2** | **30–50** |
 | Paid workshops run (Vamsi's major target) | 0 | — | first one Aug–Sep 2027 · **3–4 by Dec 2027** (then ≥ 5 by Dec 2028, continuous) |
@@ -44,7 +44,7 @@ The school list carries an Area column value from these three.
 
 | Month | Skoolyng subs | Tutorcross subs | Videos posted | Schools contacted | Schools visited | Notes |
 |---|---|---|---|---|---|---|
-| 2026-11 | | | | | | |
+| 2026-11 | 4–5 (Nov 3) | 1,000+ (Nov 3) | | | | Start-of-month baseline from Jayasri, Nov 3 · Skoolyng Instagram ~2 followers · no Tutorcross Instagram |
 
 ## Research notes (fees, batch sizes from calls)
 

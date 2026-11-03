@@ -5,9 +5,9 @@
 
 | Tool / account | Has it? | Notes (device, login, comfort level) |
 |---|---|---|
-| Skoolyng YouTube channel | ? | |
-| Tutorcross YouTube channel | ? | |
-| Instagram | ? | |
+| Skoolyng YouTube channel | ✅ | ~4–5 subscribers (Nov 3) |
+| Tutorcross YouTube channel | ✅ | 1,000+ subscribers (Nov 3) |
+| Instagram | ✅ Skoolyng only | Skoolyng account, ~2 followers (Nov 3) · no Tutorcross Instagram account |
 | CapCut | ? | |
 | Canva | 🔄 wants to start | Wants to move video editing to Canva; new to it — coach helps step by step when she edits |
 | Create Studio 3 | ✅ | Used it for editing so far |

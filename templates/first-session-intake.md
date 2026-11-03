@@ -8,8 +8,8 @@
 
 | # | Ask Jayasri | Write the answer in | Done |
 |---|---|---|---|
-| 1 | Which editing tool do you use — CapCut, Create Studio 3, both? Phone or laptop? | `templates/tools.md` | |
-| 2 | Is the Skoolyng YouTube channel created? Which Instagram account(s) — Skoolyng separate, or Tutorcross only? | `templates/tools.md` | |
+| 1 | Which editing tool do you use — CapCut, Create Studio 3, both? Phone or laptop? | `templates/tools.md` | ✅ |
+| 2 | Is the Skoolyng YouTube channel created? Which Instagram account(s) — Skoolyng separate, or Tutorcross only? | `templates/tools.md` | ✅ |
 | 3 | Do you have Canva (for decks and thumbnails)? | `templates/tools.md` | |
 | 4 | What footage is on hand right now — which experiment, how many clips, where (phone, laptop, Drive)? | today's video task in `week-plan.md` | |
 | 5 | From the orphanage call: how many children, ages/grades, the room, photo/video permission, the contact on the day? | `events/orphanage-2026-11-21.md` → Facts | |
