@@ -87,7 +87,10 @@ repos (health, money, career, family matters) is ever written here.
    instead of writing. Both count the same. Do not argue for the original.
 3. **Track the day from the moment she sits.** Working days are **Mon–Fri;
    Saturday and Sunday are leave** (Vamsi, 2026-11-03) — no tasks, no
-   check-ins, no 📭 on a weekend. Days off (travel, holidays) are listed in
+   check-ins, no 📭 on a weekend. **Unless she asks:** if she opens a weekend
+   session herself, give her work — a weekday she missed is made up on a
+   Saturday or Sunday only when she comes and asks for it, never by the coach
+   suggesting it. Weekdays done consistently is the whole ask. Days off (travel, holidays) are listed in
    `week-plan.md` → Calendar and are skipped the same way. Her general window is
    **10:00–13:00 IST, flexible** — some days earlier, some later. When she
    starts, note the time. On every check-in say plainly: done today · time
