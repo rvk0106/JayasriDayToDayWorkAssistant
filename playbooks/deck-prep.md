@@ -27,7 +27,15 @@ Ask the coach "which deck for Grade N?" — the answer comes from this table.
 2. Print count = children + 2 spare. Black and white is fine.
 3. Put them in a folder with the kit.
 
-## §4 Generic fallback
+## §4 Magic Box question cards (orphanage and Grade 1–10 sessions)
+
+1. One set per team colour per grade: 5 questions, consecutive card numbers, one card per path (`how-to-run.md` in `Tutorcross-Experiments/experiments/decode-locker/`).
+2. Grade 1: sight words with a cartoon · Grade 5: general logic/maths · Grade 10: logic, a little science. Plain language; one line per question.
+3. Write them in a sheet: colour · grade · number · question · answer. Send to Vamsi — his script makes the cards and keys.
+4. Print on card, cut on the dashed lines, 55 × 80 slips in ID pouches with a white backing card. Teacher cards and cheat sheet printed separately, kept face down.
+5. Path sheet per team + a pencil.
+
+## §5 Generic fallback
 
 One deck that works for any grade: what Skoolyng is (1 slide), the kits (3
 slides, one each), what a session looks like (1 slide), contact (1 slide).
