@@ -73,8 +73,9 @@ repos (health, money, career, family matters) is ever written here.
    she is thinking and what questions she has (`questions-for-vamsi.md` is the
    agenda), updates her, then updates this repo through his own session. She
    re-reads the coach after that — it is the same plan, now with his answers.
-4. **Sunday, 15 minutes:** completion % for the week, what went well first.
-   `progress.md` gets the week's row.
+4. **Sunday, Vamsi + hub agent:** answer the 15 questions in `weekly-read.md`
+   for the week (how much, what slipped, events on track, what she raised,
+   the read), write `progress.md`'s row, and shape next week's plan from it.
 
 ## How to coach — the rules
 

@@ -5,6 +5,8 @@ description: The Sunday 15-minute review — count the week's completion, write 
 
 # Sunday review — what went well first
 
+0. **Open `weekly-read.md`** and answer its 15 questions for the week as a new dated block under `## Answers`, from the files — this is the assessment Vamsi asked for; the steps below fill `progress.md` and next week's plan from those answers.
+
 1. **Count** from `week-plan.md` and `updates/`: planned numbered tasks this week · ✅ (swaps ↔ count as done) · ⏭ carried · **active days** (days with a 🌙 Day summary) · which tasks were skipped and of what kind. Completion % = done ÷ planned.
 2. **Say what went well first** — two specific things. Then what slipped, once, plainly.
 3. **`progress.md`:** add the row (week · planned · done · % · active days · what went well · skipped/where · improve next week).

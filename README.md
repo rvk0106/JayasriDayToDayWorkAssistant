@@ -6,7 +6,7 @@ Jayasri's daily work coach. Connect this repo in Claude and ask **"what should I
 - `backlog.md` — alternatives when the day's task does not fit the mood
 - `playbooks/` — step-by-step how-tos (schools, decks, videos, kit review)
 - `questions-for-vamsi.md` — the weekend agenda: what she needs from Vamsi, answered when they sit together
-- `progress.md` · `metrics.md` — weekly completion and the monthly numbers
+- `weekly-read.md` — the 15 questions Vamsi + hub answer every week · `progress.md` · `metrics.md` — weekly completion and the monthly numbers
 - `updates/` — the dated log of what was done
 - `events/` — one plan per event she manages (orphanage 21 Nov first)
 - `visits.md` — the school-visit experience log · `templates/school-list.md` — the school tracker
