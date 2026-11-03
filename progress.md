@@ -1,14 +1,16 @@
-# Progress — weekly completion
+# Progress — the weekly read, Vamsi + hub agent
 
-> One row per week, filled in the Sunday 15-minute review. Completion % =
-> tasks ✅ ÷ tasks planned. Swapped tasks count as done. This is the trend
-> Vamsi reads when he asks "how is Jayasri doing?" — the number, not a verdict.
+> **What this file is for (Vamsi, 2026-11-03):** every week, Vamsi and the hub
+> agent look at how much work Jayasri actually did, how many days she was
+> active, where she skipped, and where she would do better — then guide her
+> from that, so Skoolyng moves to the next level. That discussion is between
+> the two of them; the numbers here are its input, and the guidance comes
+> back to her through next week's plan, never as a verdict in her session.
 >
-> The day is sized to her ~3-hour window. Completion % is read on Sunday
-> together; a low week changes the mix of tasks, not the hours.
->
-> Vamsi reads this when he asks "how is Jayasri doing?" — the trend, nothing more.
+> One row per week, filled in the Sunday review. Completion % = tasks ✅ ÷
+> tasks planned; swapped tasks count as done. Active days = days with a 🌙 Day
+> summary.
 
-| Week | Planned | Done | % | Tasks/day | What went well | Note |
-|---|---|---|---|---|---|---|
-| Nov 3–7 | 24 | | | ~5 (≈3 h) | | first week |
+| Week | Planned | Done | % | Active days | What went well | Skipped / where | Improve next week |
+|---|---|---|---|---|---|---|---|
+| Nov 3–7 | 24 | | | /5 | | | first week |
