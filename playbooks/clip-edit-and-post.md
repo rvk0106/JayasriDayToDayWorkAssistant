@@ -20,7 +20,9 @@ week, every week. Vamsi films on the weekend; Jayasri edits 5–10 min a day and
 
 ## §3 Post (10 min)
 
-**YouTube (Skoolyng or Tutorcross, per the plan):**
+**Which channel?** Yashvi's experiments and short stories → Tutorcross. Our workshops and school work → Skoolyng. Never mix (rule in `metrics.md`).
+
+**YouTube:**
 - Title: what happens + who it is for, under 60 characters. Example: *"6-year-old programs a robot with paper tiles"*
 - Description: 2 lines + "Skoolyng — hands-on logical thinking for children" + WhatsApp number.
 - Thumbnail: the reaction frame, big 3-word text (Canva, 1280×720).

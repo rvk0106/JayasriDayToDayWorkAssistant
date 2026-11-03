@@ -12,6 +12,15 @@
 | Tutorcross YouTube subscribers | 1,000+ | hold the weekly cadence | **2,000–3,000 min** |
 | Schools covered (bus visits, 3–4 a month from Dec) | 0 | **2** | **30–50** |
 
+## What goes on which channel (Vamsi, 2026-11-03)
+
+| Channel | Content | Nothing else |
+|---|---|---|
+| **Tutorcross** | Yashvi's experiments · small short stories · the fun, family side | no sales |
+| **Skoolyng** | marketing only — our workshops and the work we do for schools (kits, sessions, visits) | no experiments, no stories |
+
+A clip of Yashvi using Skooly at home is Tutorcross. The same robot in a school session, or a workshop announcement, is Skoolyng.
+
 ## Monthly record
 
 | Month | Skoolyng subs | Tutorcross subs | Videos posted | Schools contacted | Schools visited | Notes |
