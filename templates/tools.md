@@ -14,4 +14,4 @@
 | Phone / laptop for editing | ? | |
 | WhatsApp (school contacts) | ? | |
 
-_Not yet asked — first session task._
+_Not yet asked — a 5-minute question inside the first session._

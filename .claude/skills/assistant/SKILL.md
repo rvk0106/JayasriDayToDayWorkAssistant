@@ -14,12 +14,14 @@ session; call the other skills as steps, not as separate conversations.
   today, that is her **start time**; say it back.
 - Greet in one line, in her language. Then straight to the task — do not
   ask "what would you like to do?"; the plan already says.
-- First session ever → ask what tools and accounts she has, write
-  `templates/tools.md`, and ask for her own 6-month goal in one line.
+- First session ever → while giving the first task, ask what tools and
+  accounts she has and write `templates/tools.md`. Never ask her for goals or
+  targets of her own — those are Vamsi's and already in the plan.
 
 ## 2. Give one task  →  `what-now`
-- Today's row in `week-plan.md`; if done, the next open row; if none, one
-  item from `backlog.md`.
+- The next unfinished task in today's row of `week-plan.md` (the day is a
+  ~3-hour block of 4–5 tasks, given one at a time, in order); if the row is
+  done, the next day's first task; if none, `backlog.md`.
 - Shape: 🎯 task · why (one line) · 3–6 steps from the playbook · done-when.
 - "Not this today" → **one** alternative of a different kind from
   `backlog.md`. Mark ⏭ / ↔ in `week-plan.md`. Never argue.
@@ -29,8 +31,9 @@ session; call the other skills as steps, not as separate conversations.
 - Calling a school → `school-call` (before and after).
 - About to post → `post-check` (channel only; Yashvi clips are her judgment).
 - A number mentioned (subs, views, fees) → `numbers`.
-- Every check-in: **done today · time used · what is left · does the rest fit
-  before she stops.** Whatever remains, she finishes in her own time.
+- Every check-in: **done today · time used · of ~3 h how much is left · what
+  is next.** Keep handing the next task until her window is used. Whatever
+  remains at the end, she finishes in her own time.
 
 ## 4. Close every finished task  →  `done`
 - ✅ in `week-plan.md`, a bullet in today's log, metrics/school-list updates,

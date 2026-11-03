@@ -6,7 +6,7 @@ description: Record a finished task — tick it in week-plan.md, write today's l
 # Done — write it, or it did not happen
 
 1. **Confirm what was done in one line** and note the time ("done 11:05 — 45 min").
-2. **`week-plan.md`:** put ✅ in that row's Status (↔ if it was a swap, naming the backlog item).
+2. **`week-plan.md`:** mark that numbered task ✅ inside today's row (e.g. `1 ✅ · 2 ✅ · 3 ↔ backlog: …`) in the Status column; the row is ✅ when all are.
 3. **`updates/<YYYY-MM>/week-<N>.md`** (N = ceil(day/7)): under today's
    `## 📅 YYYY-MM-DD (Weekday)` → the right `### <Category>` from
    `templates/categories.txt`, one short past-tense bullet. Create the heading
