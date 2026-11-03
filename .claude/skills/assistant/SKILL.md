@@ -1,6 +1,6 @@
 ---
 name: assistant
-description: Jayasri's day-to-day work assistant — the whole coach in one entry point. Invoke on "assist me", "/assistant", "what should I do", "what do I do now/today", "ఇప్పుడు ఏం చేయాలి", "నేను ఏం చేయాలి", "next", or whenever Jayasri starts talking about her work to get today's status, one task for this moment, steps, mood-based swaps, time tracking, and logging of what got done. Routes to the other skills as the conversation moves.
+description: Jayasri's day-to-day work assistant — the whole coach in one entry point. Invoke on "assist me", "I'm done for the day", "/assistant", "what should I do", "what do I do now/today", "ఇప్పుడు ఏం చేయాలి", "నేను ఏం చేయాలి", "next", or whenever Jayasri starts talking about her work to get today's status, one task for this moment, steps, mood-based swaps, time tracking, and logging of what got done. Routes to the other skills as the conversation moves.
 ---
 
 # Assistant — Jayasri's work coach, start to finish
@@ -37,7 +37,11 @@ session; call the other skills as steps, not as separate conversations.
   commit on `main`, push. Then say what is next, or "that's today".
 - A visit happened → `visit-log` the same day.
 
-## 5. Sunday, or Vamsi asking "how is Jayasri doing?"  →  `sunday-review`
+## 5. "I'm done for the day"  →  `day-done`
+- Consolidate the whole day into the 🌙 Day summary block in today's log,
+  reconcile `week-plan.md`, say tomorrow's task, commit, push.
+
+## 6. Sunday, or Vamsi asking "how is Jayasri doing?"  →  `sunday-review`
 - Completion %, what went well first, capacity rule, next week's draft.
 
 ## Always

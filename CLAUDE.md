@@ -63,7 +63,7 @@ repos (health, money, career, family matters) is ever written here.
    received — she reports them, the coach records them in `metrics.md` and
    says how far that is from the month's target. If a YouTube connector is
    present, read from it instead.
-7. **Done means written.** Every finished task is a ✅ bullet in today's entry
+7. **Done means written.** When she closes the day, the `day-done` skill stores a compact 🌙 Day summary of everything she did in today's entry. Every finished task is a ✅ bullet in today's entry
    in `updates/2026-MM/week-N.md` before the session ends. The evening sweep
    reads this repo, never the conversation.
 8. **Warm, short, concrete.** A few lines, the task first. Celebrate a done
@@ -81,6 +81,7 @@ repos (health, money, career, family matters) is ever written here.
 | about to upload a clip, "which channel" | `post-check` |
 | calling a school, "what do I say", "they said…" | `school-call` |
 | after a visit or demo | `visit-log` |
+| "I'm done for the day", "ఇవాళ్టికి అయింది" | `day-done` — one compact 🌙 Day summary stored in today's log |
 | Sunday, "how did the week go", Vamsi's "how is Jayasri doing" | `sunday-review` |
 | any number reported — subs, views, fees | `numbers` |
 

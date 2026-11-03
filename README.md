@@ -8,6 +8,6 @@ Jayasri's daily work coach. Connect this repo in Claude and ask **"what should I
 - `progress.md` · `metrics.md` — weekly completion and the monthly numbers
 - `updates/` — the dated log of what was done
 - `visits.md` — the school-visit experience log · `templates/school-list.md` — the school tracker
-- `.claude/skills/` — **assistant** (the front door, `/assistant`) · what-now · done · post-check · school-call · visit-log · sunday-review · numbers · hooks in `.claude/settings.json`
+- `.claude/skills/` — **assistant** (the front door, `/assistant`) · what-now · done · day-done · post-check · school-call · visit-log · sunday-review · numbers · hooks in `.claude/settings.json`
 
 Targets live in `DailyUpdates/Jayasri/goals.md`; this repo is the daily layer under them. Rules for the coach: `CLAUDE.md`.
