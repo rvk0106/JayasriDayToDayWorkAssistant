@@ -30,11 +30,10 @@ Vamsi's.
 |---|---|---|
 | Tue Nov 3 | Session plan finalised with the coach → `events/orphanage-2026-11-21.md`; material list derived from it | |
 | Wed Nov 4 | Grade 1 question set, per team colour, as the plan says | |
-| Thu Nov 5 | Grade 5 and Grade 10 question sets; all sets to Vamsi for the card generator (`questions-for-vamsi.md` row) | |
-| Sat Nov 7 | Story + its 2 questions, in Telugu, read aloud once and timed | |
-| Mon Nov 9 | Vamsi's corrections applied; sets final | |
+| Wed Nov 4 | Grade 5 and Grade 10 question sets too — all three sets to Vamsi before Goa (`questions-for-vamsi.md` row) | |
+| Wed Nov 11 | Story + its 2 questions, in Telugu, read aloud once and timed; Vamsi's corrections applied, sets final | |
 | Thu Nov 12 | Print decks + path sheets, cut, pouch (55 × 80 slips, white backing); teacher cards, cheat sheet | |
-| Sat Nov 14 | Energiser + warm-up props; gifts, chocolates, snacks for the headcount + spare, bought or ordered | |
+| Mon Nov 16 | Energiser + warm-up props; gifts, chocolates, snacks for the headcount + spare, bought or ordered | |
 | Wed Nov 18 | Dry run at home with Yashvi: one colour, one path, the box opens; plan corrected | |
 | Fri Nov 20 | Everything packed by activity in run order; reminder message to the contact | |
 | Sat Nov 21 | The pilot — Jayasri runs the table, Vamsi drives the session; `visit-log` the same evening | |
@@ -43,31 +42,40 @@ Vamsi's.
 
 ---
 
-## Week 1 · Nov 3 – Nov 7 (~3 h a day)
+## Calendar — days off
+
+- **Sat + Sun: leave, every week** (Vamsi, 2026-11-03). Working days are Mon–Fri.
+- **Goa: Thu Nov 5 evening → ~Tue Nov 10** (bus 18:45 Thu Nov 5 · Agonda stay Nov 6–8 · return date not in the calendar — assumed Mon Nov 9 night, back Tue Nov 10; Vamsi to confirm). No tasks Nov 5–10.
+- Sat Nov 21 is the orphanage pilot — the event, not a working day.
+
+## Week 1 · Nov 3 – Nov 4 (2 working days before Goa, ~3 h each)
 
 | Day | Tasks, in order (≈ time) | Playbook | Status |
 |---|---|---|---|
-| Tue Nov 3 | 1. Tell the coach which tools/accounts you have, and **what footage is on hand** (10 min) · 2. **Orphanage session plan** — go through the draft with the coach, decide every open point, finalise `events/orphanage-2026-11-21.md`, derive the material list (60–75 min) · 3. **Sattupalli first:** list 5 public/government schools there for December — name, grades, a contact (Vamsi's father's contacts first) (45 min) · 4. Telugu intro message for schools, 4 lines (30 min) · 5. **Video: edit the footage on hand and upload to Tutorcross** (rest of the day; carries over) | run-up above · `school-outreach.md` §1–2 | |
-| Wed Nov 4 | 1. **Orphanage: Grade 1 question set** — per team colour, as the finalised plan says (60 min) · 2. Video: continue editing / upload if not done (60–90 min) · 3. Message schools 1 and 2 with the intro (20 min) | run-up · `school-outreach.md` §2 | |
-| Thu Nov 5 | 1. **Orphanage: Grade 5 and Grade 10 question sets** — as the plan says; all sets to Vamsi via `questions-for-vamsi.md` (75 min) · 2. Message schools 3, 4, 5 (30 min) · 3. Call 2 activity centres for fees and batch size (30 min) · 4. Video: if uploaded, post the same to Instagram; else continue (30 min) | run-up · `school-outreach.md` §2 | |
-| Fri Nov 6 | 1. Follow up any school with no reply (20 min) · 2. Orphanage: material list checked against the finalised plan — what to buy, print, make (45 min) · 3. Update the school list with every reply so far (20 min) · 4. Review the Magic Box as a child would, note what confused you (45 min) | `school-outreach.md` §2 | |
-| Sat Nov 7 | 1. **Orphanage: story + 2 questions in Telugu**, read aloud once, timed (60 min) · 2. Video 1: finish and upload if still open (60 min) · 3. Week wrap: school list status, numbers, what was hard — ready for Sunday (30 min) | run-up · `numbers` | |
+| Tue Nov 3 | 1. Tell the coach which tools/accounts you have, and **what footage is on hand** (10 min) · 2. **Orphanage session plan** — go through the draft with the coach, decide every open point, finalise `events/orphanage-2026-11-21.md`, derive the material list (60–75 min) · 3. **Sattupalli first:** list 5 public/government schools there for December — name, grades, a contact (Vamsi's father's contacts first) (45 min) · 4. Telugu intro message for schools, 4 lines (30 min) · 5. **Video 1: edit the footage on hand and upload to Tutorcross** (rest of the day; carries over) | run-up above · `school-outreach.md` §1–2 | |
+| Wed Nov 4 | 1. **Orphanage: Grade 1, Grade 5 and Grade 10 question sets** — per team colour, as the finalised plan says; all three to Vamsi via `questions-for-vamsi.md` so the cards are generated during Goa (2 h) · 2. Message schools 1 and 2 with the intro (20 min) · 3. Video 1: continue / upload if close (rest) | run-up · `school-outreach.md` §2 | |
+| Thu Nov 5 | 🏖️ Travel day — bus 18:45. No tasks. (If video 1 is one step from upload, upload it; otherwise it waits.) | — | |
+| Fri Nov 6 – Tue Nov 10 | 🏖️ Goa — no tasks, no check-ins. | — | |
 
-## Week 2 · Nov 8 – Nov 14 (draft — confirmed in Sunday's session)
+## Week 2 · Nov 11 – Nov 13 (3 working days)
 
 | Day | Tasks, in order (≈ time) | Playbook | Status |
 |---|---|---|---|
-| Mon Nov 9 | 1. Call schools that replied, ask for a 15-min meeting (45 min) · 2. Orphanage: corrections from Vamsi applied, final question sets sent to him (30 min) | `school-outreach.md` §2 · `clip-edit-and-post.md` | |
-| Tue Nov 10 | 1. Generic Skoolyng deck: school name/date placeholders, check every slide (60 min) · 2. Review the Decode Locker as a child would (45 min) · 3. Find 3 more Sattupalli/Khammam government schools with phone numbers (40 min) | `deck-prep.md` §4 · `kit-review.md` | |
-| Wed Nov 11 | 1. School follow-ups (30 min) · 2. **Video 2: edit and upload** (rest of the day) | `clip-edit-and-post.md` · `school-outreach.md` §3 | |
-| Thu Nov 12 | 1. Video 2: finish and upload if not done; post to Instagram (45 min) · 2. Orphanage: print decks + path sheets, cut, pouch; teacher cards + cheat sheet (60 min) · 3. Deck for the grades of any school that fixed a meeting (60 min) · 4. Call 2 activity centres (30 min) · 5. School list update (20 min) | `deck-prep.md` §2–3 | |
-| Fri Nov 13 | 1. Follow-ups (30 min) · 2. Orphanage: question sets checked against Vamsi's generated cards, fixes noted (60 min) · 3. Find 3 more Sattupalli/Khammam government schools with phone numbers (40 min) | run-up · `school-outreach.md` | |
-| Sat Nov 14 | 1. 🗓️ Shortlist done: 5 schools with contact status noted, sent to Vamsi (30 min) · 2. Orphanage: energiser/warm-up props; gifts, chocolates, snacks for the headcount + spare, listed and ordered (45 min) · 3. Week wrap for Sunday (30 min) | `kit-review.md` §2 | |
+| Wed Nov 11 | 1. Follow up schools 1–2; message schools 3, 4, 5 (40 min) · 2. **Orphanage: story + 2 questions in Telugu**, read aloud once, timed (60 min) · 3. Orphanage: Vamsi's corrections on the question sets applied, sets final (30 min) · 4. Video 1: upload if still open (rest) | `school-outreach.md` §2 · run-up | |
+| Thu Nov 12 | 1. **Orphanage: print decks + path sheets, cut, pouch; teacher cards + cheat sheet** (75 min) · 2. Material list checked against the finalised plan — what to buy, make (30 min) · 3. Call 2 activity centres for fees and batch size (30 min) · 4. School list update with every reply (20 min) | run-up · `deck-prep.md` §4 | |
+| Fri Nov 13 | 1. 🗓️ **Shortlist done: 5 Sattupalli schools with contact status, sent to Vamsi** (30 min) · 2. **Video 2: edit and upload** (rest of the day) · 3. Find 3 more Sattupalli/Khammam government schools with phone numbers (30 min) | `school-outreach.md` · `numbers` | |
 
-## Week 3 · Nov 15 – Nov 21 (outline — orphanage week)
+## Week 3 · Nov 16 – Nov 20 (orphanage week) — draft, confirmed Sunday Nov 15
 
-- Follow up schools that did not reply · dry run at home Wed Nov 18 (one colour, one path, box opens) · pack by activity Fri Nov 20 · 🗓️ Sat Nov 21 afternoon — orphanage pilot: Jayasri films only if permission was given on Nov 5.
+| Day | Tasks, in order (≈ time) | Playbook | Status |
+|---|---|---|---|
+| Mon Nov 16 | 1. Orphanage: energiser + warm-up props ready; gifts, chocolates, snacks for the headcount + spare listed and ordered (60 min) · 2. Question sets checked against Vamsi's generated cards, fixes noted (45 min) · 3. Call schools that replied, ask for a 15-min meeting (45 min) | run-up · `school-outreach.md` §2 | |
+| Tue Nov 17 | 1. Review the Magic Box as a child would, note what confused you (45 min) · 2. Generic Skoolyng deck: placeholders, every slide checked (60 min) · 3. Video 2: finish and upload if not done; post to Instagram (45 min) | `kit-review.md` · `deck-prep.md` §4 | |
+| Wed Nov 18 | 1. **Orphanage dry run at home with Yashvi** — one colour, one path, the box opens; plan corrected (90 min) · 2. School follow-ups (30 min) · 3. Deck for the grades of any school that fixed a meeting (60 min) | run-up · `deck-prep.md` §2 | |
+| Thu Nov 19 | 1. Orphanage: anything the dry run broke — reprint, re-pouch, fix (60 min) · 2. 2 activity-centre fee calls (30 min) · 3. Find 3 more schools (40 min) · 4. School list update (20 min) | run-up | |
+| Fri Nov 20 | 1. **Orphanage: everything packed by activity in run order; reminder message to the contact** (90 min) · 2. Week wrap: school list status, numbers, what was hard (30 min) | run-up | |
+| Sat Nov 21 | 🎪 **Orphanage pilot, afternoon** — Jayasri runs the table, Vamsi drives the session; `visit-log` the same evening | `visit-log` | |
 
-## Week 4 · Nov 22 – Nov 28 (outline)
+## Week 4 · Nov 23 – Nov 27 (outline)
 
-- 🗓️ Nov 28: 2 December schools finalised, visit dates asked for · grades known or asked · deck prep starts for the known grades.
+- 🗓️ Fri Nov 27: 2 December schools finalised, visit dates asked for · grades known or asked · deck prep starts for the known grades · video 3 (fortnight cadence).

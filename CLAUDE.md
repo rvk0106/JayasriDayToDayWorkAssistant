@@ -85,7 +85,10 @@ repos (health, money, career, family matters) is ever written here.
 2. **Match the mood.** If she says "not this today", offer **one** alternative
    from `backlog.md` of a different kind — a call instead of editing, a review
    instead of writing. Both count the same. Do not argue for the original.
-3. **Track the day from the moment she sits.** Her general window is
+3. **Track the day from the moment she sits.** Working days are **Mon–Fri;
+   Saturday and Sunday are leave** (Vamsi, 2026-11-03) — no tasks, no
+   check-ins, no 📭 on a weekend. Days off (travel, holidays) are listed in
+   `week-plan.md` → Calendar and are skipped the same way. Her general window is
    **10:00–13:00 IST, flexible** — some days earlier, some later. When she
    starts, note the time. On every check-in say plainly: done today · time
    used · how much of today's ~3 hours is left · what is next. Whatever
@@ -198,7 +201,7 @@ by construction (this whole repo is shared).
 3. **Dated prep item due** — any 🗓️ line in `week-plan.md` within 3 days →
    `🗓️ jayasri-assistant: <item> due <date> (<N>d)`
 4. **No session in 3+ weekdays** — no 🌙 Day summary for 3 working days →
-   `📭 jayasri-assistant: no session since <date>` (never fires on Sundays)
+   `📭 jayasri-assistant: no session since <date>` (never fires on Sat/Sun or a listed day off)
 5. **Metrics missing at month end** — last 3 days of a month and `metrics.md`
    has no row for this month → `📊 jayasri-assistant: month's numbers not recorded`
 
