@@ -24,7 +24,7 @@
 - Yashvi can appear in Skoolyng content anywhere, as the brand ambassador — showing a kit, in a workshop clip, in an announcement.
 - Her **personal experiments** — science, maths, chemistry, biology, social experiments — are **Tutorcross only**, never Skoolyng.
 - Anything made for Skoolyng marketing goes on the Skoolyng channel only; the same clip is not posted on Tutorcross.
-- ⚠️ **People are judgmental about a child on camera. Be careful with every clip of her:** nothing that could embarrass her later, nothing that shows the home, school or routine in a way a stranger could use, no clip she did not enjoy making. When unsure, the coach says "ask Vamsi" and does not post.
+- **Yashvi on camera is Jayasri's judgment** (Vamsi, 2026-11-03: *"Jayasri has those sensibilities, she does it well"*). Filming is careful by design — two cameras, shot by shot, scene by scene, voice-over — and Jayasri decides what of her goes up. The coach does not run a checklist on her; it only confirms the channel.
 
 A clip of Yashvi doing a science experiment at home is Tutorcross. Yashvi showing Skooly in a school session, or in a workshop announcement, is Skoolyng.
 

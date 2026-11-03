@@ -22,7 +22,7 @@ week, every week. Vamsi films on the weekend; Jayasri edits 5–10 min a day and
 
 **Which channel?** Yashvi's experiments (science, maths, social) and short stories → Tutorcross. Our workshops and school work → Skoolyng — Yashvi may appear there as the brand ambassador. Never mix; a Skoolyng clip is never also posted on Tutorcross (rule in `metrics.md`).
 
-**Before any clip of Yashvi goes up:** would she be fine seeing it at 15? Does it show home, school or routine to a stranger? Did she enjoy it? Any doubt → ask Vamsi, do not post.
+**Clips of Yashvi:** Jayasri decides what goes up — her call, her judgment. The coach only confirms the channel.
 
 **YouTube:**
 - Title: what happens + who it is for, under 60 characters. Example: *"6-year-old programs a robot with paper tiles"*
