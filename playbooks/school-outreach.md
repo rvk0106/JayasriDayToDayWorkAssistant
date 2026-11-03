@@ -3,6 +3,8 @@
 Goal: 3–4 schools a month visited by bus from December. Jayasri finds and
 finalises the schools; Vamsi prepares what is shown there.
 
+Three areas: **Hyderabad** (all paid), **Khammam** (mixed paid/free), **Sattupalli** (free, government schools through Vamsi's father — marketing, not revenue). Say which area a school is in when you add it.
+
 ## §1 Build the list (30 min)
 
 1. Open a note. Columns: school · area · grades it has · contact name · phone · how we know them · status.

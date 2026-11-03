@@ -11,7 +11,7 @@
 | Skoolyng YouTube subscribers | 0 | **500 min** · 2000 stretch | **15,000–20,000** |
 | Tutorcross YouTube subscribers | 1,000+ | hold the weekly cadence | **2,000–3,000 min** |
 | Schools covered (bus visits, 3–4 a month from Dec) | 0 | **2** | **30–50** |
-| Paid workshops run (Vamsi's major target) | 0 | — | **≥ 1 in ≥ 1 school** (then ≥ 5 by Dec 2028, continuous from 2028) |
+| Paid workshops run (Vamsi's major target) | 0 | — | first one Aug–Sep 2027 · **3–4 by Dec 2027** (then ≥ 5 by Dec 2028, continuous) |
 
 ## What goes on which channel (Vamsi, 2026-11-03)
 
@@ -29,6 +29,16 @@
 A clip of Yashvi doing a science experiment at home is Tutorcross. Yashvi showing Skooly in a school session, or in a workshop announcement, is Skoolyng.
 
 > Every school visit in the first 6 months (Dec 2026 – May 2027) is written up in `visits.md` the same day — what worked, what did not, what to change — so the visits move toward the first payment.
+
+## Three areas (Vamsi, 2026-11-03)
+
+| Area | Workshops | How we get in |
+|---|---|---|
+| Hyderabad | all paid | our own school list (`templates/school-list.md`) |
+| Khammam | mixed — some paid, some free | contacts there |
+| Sattupalli | free — government schools, for marketing and visibility | through Vamsi's father |
+
+The school list carries an Area column value from these three.
 
 ## Monthly record
 
