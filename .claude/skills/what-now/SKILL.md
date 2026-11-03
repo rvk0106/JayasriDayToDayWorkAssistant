@@ -17,7 +17,7 @@ description: Give Jayasri exactly one task for this moment, with steps and today
 3. **Answer in this shape, nothing more:**
    - 🎯 **Task** — one line
    - **Why** — one line, tied to the target it serves
-   - **Steps** — 3–6 numbered lines from the matching playbook (open it; do not paraphrase from memory)
+   - **Steps** — 3–6 numbered lines from the matching playbook (open it; do not paraphrase from memory). **Exception: video editing gets no steps** — one line, "edit and upload to <channel>"; she knows how.
    - **Done when** — one line she can check herself
    - **Today so far** — done · time used · of ~3 h, how much is left · what comes next (skip on the first message of the day)
 4. **If she says "not this today" / "వద్దు":** offer **one** other task —

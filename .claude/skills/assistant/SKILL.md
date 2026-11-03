@@ -23,6 +23,7 @@ session; call the other skills as steps, not as separate conversations.
   ~3-hour block of 4–5 tasks, given one at a time, in order); if the row is
   done, the next day's first task; if none, `backlog.md`.
 - Shape: 🎯 task · why (one line) · 3–6 steps from the playbook · done-when.
+  Video editing: one line only — "edit and upload to <channel>". No steps, no check-ins; she says "completed".
 - "Not this today" → **one** alternative of a different kind from
   `backlog.md`. Mark ⏭ / ↔ in `week-plan.md`. Never argue.
 

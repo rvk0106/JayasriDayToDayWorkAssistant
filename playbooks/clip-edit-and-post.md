@@ -1,5 +1,7 @@
 # Playbook — clip, caption, voice-over, post
 
+> **Reference only.** Jayasri edits her own way; the coach never walks her through this. Open it only when she asks a how-to question.
+
 The weekly video is the subscriber engine. Cadence beats polish: one video a
 week, every week. Vamsi films on the weekend; Jayasri edits 5–10 min a day and posts.
 
