@@ -15,7 +15,7 @@
 | 1 | Groups by colour | 5 | Jayasri | colour bands/cards | |
 | 2 | Energiser — clap-pattern repeat | 5 | Vamsi | nothing | ✅ keep |
 | 3 | Story + 2 questions | 10 | Vamsi tells · Jayasri organises | story in Telugu (Vamsi picks) | ✅ keep |
-| 4 | Warm-up | 5 | | | |
+| 4 | Warm-up — how-to-play demo: one sample question in front of everyone, how to write the number answer, how to get the next card | 5 | Vamsi | 1 sample question card | ✅ keep |
 | 5 | Magic Box treasure hunt — Grade 1 / 5 / 10 questions per team, combined code | 30 | Vamsi drives, Jayasri the table | decks, path sheets, box | |
 | 6 | Gifts, chocolates, snacks | 5 | | counts | |
 
@@ -25,6 +25,7 @@
 - Dividing the teams: with Srinivas garu's help — he knows the children; ask him in the Nov 20 reminder to help split them on the day ✅
 - Questions per team: 🔄 **3 or 5 — Vamsi to decide** (Jayasri fine with either). Proposal: 5 per team — Grade 1 · Grade 2–3 · Grade 5 · Grade 6–7 · Grade 10; one card at a time, each card says who answers it (small / big children), each answer a number, the numbers make the box code. 5 answers = 5-digit code → box setup change (Vamsi's R&D).
 - Story: **Vamsi picks the story and tells it** (with its 2 questions); Jayasri organises ✅
+- Warm-up: **how-to-play demo** with one sample question — Vamsi leads it ✅
 - Energiser: **clap-pattern repeat** (Vamsi + Jayasri decided) — Vamsi leads it ✅
 - Gifts: _Jayasri's proposal — what, how many, rough cost_ (she thinks it through; Vamsi weighs in on the weekend)
 

@@ -11,3 +11,4 @@
 | 2026-11-03 | Jayasri | Orphanage contact Srinivas garu — please share his phone number (needed for the Nov 20 reminder message) | |
 | 2026-11-03 | Jayasri | Orphanage treasure hunt: 3 or 5 questions per team? Proposal in `events/orphanage-2026-11-21.md` → Decisions (5 per team: Grade 1, 2–3, 5, 6–7, 10 — so more of the ~10 mixed-age children get a turn). 5 means a 5-digit box code — can the box/card generator take it? Jayasri is fine with either. | |
 | 2026-11-03 | Jayasri | Orphanage story: you pick and tell it (Jayasri organises). Which story, and its 2 questions? The plan had "story + 2 questions in Telugu" on Sat Nov 7 as Jayasri's — that task is now yours. | |
+| 2026-11-03 | Jayasri | Orphanage — for your info, you lead three parts: the clap-pattern energiser, the story (+2 questions), and the warm-up (a how-to-play demo with one sample question before the treasure hunt). OK? Want a sample question from Jayasri for the demo? | |
