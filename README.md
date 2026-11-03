@@ -2,6 +2,7 @@
 
 Jayasri's daily work coach. Connect this repo in Claude and ask **"what should I do now?"** — you get one task, the steps, and where today stands.
 
+- `base-goals.md` — the one-table picture of all goals
 - `week-plan.md` — this week's tasks, one a day
 - `backlog.md` — alternatives when the day's task does not fit the mood
 - `playbooks/` — step-by-step how-tos (schools, decks, videos, kit review)

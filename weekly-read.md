@@ -24,7 +24,7 @@
 **C. Are the events on track**
 8. Orphanage (Sat Nov 21) — run-up table: which dated items are done, which are late?
 9. Schools — list size, contacts made, replies, meetings fixed (`school-list.md`); is the Nov 14 / Nov 28 milestone still reachable?
-10. Videos — how many edited and uploaded this week vs the one-a-week cadence; subscribers reported?
+10. Videos — uploaded this fortnight? (cadence: one every 2 weeks); subscribers reported?
 
 **D. What she raised**
 11. `questions-for-vamsi.md` — open rows; which need an answer before next week's plan works?

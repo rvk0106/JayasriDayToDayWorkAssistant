@@ -2,8 +2,8 @@
 
 > **Reference only.** Jayasri edits her own way; the coach never walks her through this. Open it only when she asks a how-to question.
 
-The weekly video is the subscriber engine. Cadence beats polish: one video a
-week, every week. Vamsi films on the weekend; Jayasri edits 5–10 min a day and posts.
+The video is the subscriber engine. Cadence beats polish: one video every two
+weeks, without fail (Vamsi, 2026-11-03). Vamsi films on the weekend; Jayasri edits 5–10 min a day and posts.
 
 ## §1 Cut a 30-second clip (CapCut, 20–30 min)
 
