@@ -8,3 +8,4 @@
 
 | Date | From | Question | Answer (Vamsi) |
 |---|---|---|---|
+| 2026-11-03 | Jayasri | Orphanage contact Srinivas garu — please share his phone number (needed for the Nov 20 reminder message) | |

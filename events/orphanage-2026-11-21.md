@@ -5,9 +5,9 @@
 > Status: 🔄 draft — not yet finalised.
 
 ## Facts (from the call, 3 Nov)
-- Children: 53 · ages 5–15 · up to Grade 5: ~30 · Grades 5–10: ~15 (remaining ~8: _to confirm_) · room: _to fill_
+- Children: 53 · ages 5–15 · up to Grade 5: ~30 · Grades 6–10: ~23 · room: cellar, children sit on the floor — no tables
 - Photos: ✅ allowed (Jayasri, from the call) · video: _to confirm_
-- Contact on the day: _name, phone_
+- Contact on the day: Srinivas garu · phone: with Vamsi (asked in `questions-for-vamsi.md`)
 
 ## Run order (draft — decide each step)
 | # | Step | Minutes | Who | Needs | Keep / change |
