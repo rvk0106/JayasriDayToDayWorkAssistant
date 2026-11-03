@@ -13,7 +13,7 @@
 | 3 | Do you have Canva (for decks and thumbnails)? | `templates/tools.md` | |
 | 4 | What footage is on hand right now — which experiment, how many clips, where (phone, laptop, Drive)? | today's video task in `week-plan.md` | |
 | 5 | From the orphanage call: how many children, ages/grades, the room, photo/video permission, the contact on the day? | `events/orphanage-2026-11-21.md` → Facts | |
-| 6 | Session length (5–6 pm?), how many teams and colours, children per team? (Gifts: Vamsi and Jayasri settle that offline — just note what they decided) | `events/orphanage-2026-11-21.md` → Decisions | |
+| 6 | Session length (5–6 pm?), how many teams and colours, children per team? And **gifts — what would work well for ~53 children, within a small budget? Think it over and propose** (her idea first; Vamsi weighs in on the weekend) | `events/orphanage-2026-11-21.md` → Decisions | |
 | 7 | How will you hand the question sets to Vamsi — a Google Sheet, a text file? (colour · grade · number · question · answer) | `events/orphanage-2026-11-21.md` → For Vamsi | |
 | 8 | Sattupalli government schools: do you have Vamsi's father's contacts, or will you ask him directly? | `templates/school-list.md` | |
 | 9 | When in December is the Sattupalli trip — which week, day trip or overnight? | `week-plan.md` → Targets · `questions-for-vamsi.md` if only he knows | |

@@ -24,7 +24,7 @@
 - Questions per grade per team: _?_
 - Story: _which, who reads_
 - Energiser: _?_
-- Gifts: _what, how many_ — decided offline by Vamsi + Jayasri; note it here
+- Gifts: _Jayasri's proposal — what, how many, rough cost_ (she thinks it through; Vamsi weighs in on the weekend)
 
 ## Material list (derived once the plan is final)
 - [ ]
