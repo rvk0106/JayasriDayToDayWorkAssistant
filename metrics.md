@@ -20,7 +20,13 @@
 | **Tutorcross** | Yashvi's experiments · small short stories · the fun, family side | no sales |
 | **Skoolyng** | marketing only — our workshops and the work we do for schools (kits, sessions, visits) | no experiments, no stories |
 
-A clip of Yashvi using Skooly at home is Tutorcross. The same robot in a school session, or a workshop announcement, is Skoolyng.
+**Yashvi on the channels (Vamsi, 2026-11-03):**
+- Yashvi can appear in Skoolyng content anywhere, as the brand ambassador — showing a kit, in a workshop clip, in an announcement.
+- Her **personal experiments** — science, maths, chemistry, biology, social experiments — are **Tutorcross only**, never Skoolyng.
+- Anything made for Skoolyng marketing goes on the Skoolyng channel only; the same clip is not posted on Tutorcross.
+- ⚠️ **People are judgmental about a child on camera. Be careful with every clip of her:** nothing that could embarrass her later, nothing that shows the home, school or routine in a way a stranger could use, no clip she did not enjoy making. When unsure, the coach says "ask Vamsi" and does not post.
+
+A clip of Yashvi doing a science experiment at home is Tutorcross. Yashvi showing Skooly in a school session, or in a workshop announcement, is Skoolyng.
 
 > Every school visit in the first 6 months (Dec 2026 – May 2027) is written up in `visits.md` the same day — what worked, what did not, what to change — so the visits move toward the first payment.
 
