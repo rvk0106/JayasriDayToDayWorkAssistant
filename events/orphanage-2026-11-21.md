@@ -20,8 +20,9 @@
 | 6 | Gifts, chocolates, snacks | 5 | | counts | |
 
 ## Decisions (Jayasri)
-- Teams and colours: _how many?_
-- Children per team: _?_
+- Teams and colours: **5 teams** — Red, Blue, Green, Yellow, Orange ✅
+- Children per team: **~10–11, every team mixed across all grades** (small and big children together) ✅
+- Dividing the teams: with Srinivas garu's help — he knows the children; ask him in the Nov 20 reminder to help split them on the day ✅
 - Questions per grade per team: _?_
 - Story: _which, who reads_
 - Energiser: _?_
