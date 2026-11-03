@@ -9,7 +9,7 @@
 
 - 🎯 **Dec 2026: 2 schools visited** — shortlist 🗓️ Nov 14 · 2 finalised 🗓️ Nov 28 · decks ready one week before each visit (`DailyUpdates/Jayasri/goals.md`)
 - 🎯 **Dec 2026: Skoolyng YouTube 500 subscribers min (2000 stretch)** — weekly video cadence
-- 🗓️ **Sat 2026-11-21: orphanage pilot workshop** (Vamsi's demo; Jayasri prepares the run-up)
+- 🗓️ **Sat 2026-11-21, afternoon: orphanage pilot workshop** (Vamsi's demo; Jayasri prepares the run-up)
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## Week 3 · Nov 15 – Nov 21 (outline — orphanage week)
 
-- Follow up schools that did not reply · review the orphanage kit with Vamsi (3 Skooly + 2 Decode Locker — count, charge, pack) · print handouts · 🗓️ Sat Nov 21 orphanage pilot: Jayasri films only if permission was given on Nov 5.
+- Follow up schools that did not reply · review the orphanage kit with Vamsi (3 Skooly + 2 Decode Locker — count, charge, pack) · print handouts · 🗓️ Sat Nov 21 afternoon — orphanage pilot: Jayasri films only if permission was given on Nov 5.
 
 ## Week 4 · Nov 22 – Nov 28 (outline)
 
