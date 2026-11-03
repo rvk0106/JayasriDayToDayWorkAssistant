@@ -42,9 +42,8 @@ summary re-presents it.
 **Category mapping, coach → DailyUpdates (`templates/jayasri-categories.txt`):**
 Schools Outreach → Followups With Schools · Research Calls → Followups With
 Schools · Material & Decks → Skoolyng Digital Marketing · Kit Review → Skoolyng
-Digital Marketing · Videos & Posting → Skoolyng Digital Marketing (a Tutorcross
-video is written as "Tutorcross video: …" in the bullet until a category of its
-own exists) · Planning & Review → Skoolyng Digital Marketing.
+Digital Marketing · Videos & Posting → **Tutorcross Videos** for Yashvi's experiment videos,
+Skoolyng Digital Marketing for workshop/school marketing videos · Planning & Review → Skoolyng Digital Marketing.
 
 ## Audience
 
