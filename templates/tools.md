@@ -9,9 +9,9 @@
 | Tutorcross YouTube channel | ? | |
 | Instagram | ? | |
 | CapCut | ? | |
-| Canva | ? | |
-| Create Studio 3 | ? | |
-| Phone / laptop for editing | ? | |
+| Canva | 🔄 wants to start | Wants to move video editing to Canva; new to it — coach helps step by step when she edits |
+| Create Studio 3 | ✅ | Used it for editing so far |
+| Phone / laptop for editing | ✅ laptop | Edits on the laptop |
 | WhatsApp (school contacts) | ? | |
 
-_Not yet asked — a 5-minute question inside the first session._
+_Asked 2026-11-03 (first session); rows still `?` are being asked._
