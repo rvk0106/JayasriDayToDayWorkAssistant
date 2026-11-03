@@ -3,13 +3,13 @@
 Goal: 3–4 schools a month visited by bus from December. Jayasri finds and
 finalises the schools; Vamsi prepares what is shown there.
 
-Three areas: **Hyderabad** (all paid), **Khammam** (mixed paid/free), **Sattupalli** (free, government schools through Vamsi's father — marketing, not revenue). Say which area a school is in when you add it.
+Order of areas (Vamsi, 2026-11-03): **Sattupalli first** (public/government schools through Vamsi's father — free, for marketing), then more Sattupalli and **Khammam** (government + private, mixed paid/free), **Hyderabad last** (private, all paid). December's two schools are Sattupalli. Say which area a school is in when you add it.
 
 ## §1 Build the list (30 min)
 
 1. Open a note. Columns: school · area · grades it has · contact name · phone · how we know them · status.
-2. Warm first: parents we know, relatives, Yashvi's school network, Botany Balaji contacts.
-3. Then nearby Tier-2/3 private schools reachable by one bus. Google Maps: "private school near <area>".
+2. December = Sattupalli: start from Vamsi's father's contacts in the public/government schools there (ask for names via `questions-for-vamsi.md` if needed).
+3. Later areas: Khammam government + private, then Hyderabad private — warm contacts first, then Google Maps.
 4. Stop at 5. Five with a contact beats twenty without.
 5. Tell the coach the five; they go into `week-plan.md` as the shortlist.
 

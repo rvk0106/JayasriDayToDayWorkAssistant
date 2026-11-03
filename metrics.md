@@ -30,13 +30,13 @@ A clip of Yashvi doing a science experiment at home is Tutorcross. Yashvi showin
 
 > Every school visit in the first 6 months (Dec 2026 – May 2027) is written up in `visits.md` the same day — what worked, what did not, what to change — so the visits move toward the first payment.
 
-## Three areas (Vamsi, 2026-11-03)
+## Three areas — in this order (Vamsi, 2026-11-03)
 
-| Area | Workshops | How we get in |
-|---|---|---|
-| Hyderabad | all paid | our own school list (`templates/school-list.md`) |
-| Khammam | mixed — some paid, some free | contacts there |
-| Sattupalli | free — government schools, for marketing and visibility | through Vamsi's father |
+| Order | Area | Schools | Workshops | How we get in |
+|---|---|---|---|---|
+| 1 — December | **Sattupalli** | public / government schools | free — marketing, visibility | through Vamsi's father |
+| 2 | Sattupalli, then Khammam | more government + some private | mixed — some paid, some free | contacts there |
+| 3 — last | **Hyderabad** | private schools | all paid | our own school list |
 
 The school list carries an Area column value from these three.
 

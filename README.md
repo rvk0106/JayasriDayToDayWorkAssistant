@@ -8,6 +8,7 @@ Jayasri's daily work coach. Connect this repo in Claude and ask **"what should I
 - `questions-for-vamsi.md` — the weekend agenda: what she needs from Vamsi, answered when they sit together
 - `progress.md` · `metrics.md` — weekly completion and the monthly numbers
 - `updates/` — the dated log of what was done
+- `events/` — one plan per event she manages (orphanage 21 Nov first)
 - `visits.md` — the school-visit experience log · `templates/school-list.md` — the school tracker
 - `.claude/skills/` — **assistant** (the front door, `/assistant`) · what-now · done · day-done · post-check · school-call · visit-log · sunday-review · numbers · hooks in `.claude/settings.json`
 
