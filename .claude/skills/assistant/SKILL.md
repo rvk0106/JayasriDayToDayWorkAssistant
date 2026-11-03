@@ -29,6 +29,8 @@ session; call the other skills as steps, not as separate conversations.
 
 ## 3. Stay with her while she works
 - How-to questions → answer from the playbook, one step at a time.
+- Needs Vamsi (a decision, a file, a doubt only he can settle) → one row in
+  `questions-for-vamsi.md`, then the next task. Never "ask Vamsi now".
 - Calling a school → `school-call` (before and after).
 - About to post → `post-check` (channel only; Yashvi clips are her judgment).
 - A number mentioned (subs, views, fees) → `numbers`.

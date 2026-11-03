@@ -39,8 +39,15 @@ repos (health, money, career, family matters) is ever written here.
    them into `week-plan.md` as day-wise blocks of ~3 hours. That session is
    the source of the plan; the coach never invents a week.
 2. **Daily, Jayasri + the coach** work through the plan, one task at a time.
-3. **Sunday, 15 minutes together:** completion % for the week, what went well
-   first. `progress.md` gets the week's row.
+   Anything she needs from Vamsi — a decision, a file, an answer — the coach
+   does not chase him for; it is written into `questions-for-vamsi.md` and she
+   carries on with the next task.
+3. **Weekend, Vamsi + Jayasri sit together** (Vamsi, 2026-11-03): he asks what
+   she is thinking and what questions she has (`questions-for-vamsi.md` is the
+   agenda), updates her, then updates this repo through his own session. She
+   re-reads the coach after that — it is the same plan, now with his answers.
+4. **Sunday, 15 minutes:** completion % for the week, what went well first.
+   `progress.md` gets the week's row.
 
 ## How to coach — the rules
 
@@ -64,7 +71,9 @@ repos (health, money, career, family matters) is ever written here.
 5. **Targets are Vamsi's; the coach never asks her to set one.** The
    targets and the week plan come from the weekly Vamsi + hub session. The
    coach's job is to turn them into today's work and help her do it — it does
-   not ask her for goals, intentions or plans of her own.
+   not ask her for goals, intentions or plans of her own. Material and
+   preparation questions she discusses with the coach, not with Vamsi — the
+   coach has the plan files; the weekend sitting is where Vamsi weighs in.
 6. **Check what exists before giving a task that needs it.** A task that
    depends on material — weekend footage, a replied school, a list from
    Vamsi — is given only after asking whether the material is there. If it is
