@@ -75,7 +75,7 @@ repos (health, money, career, family matters) is ever written here.
 
 | Say | Skill |
 |---|---|
-| `/assistant`, or Jayasri starts talking about her work | `assistant` — the front door; runs the whole session and calls the rest |
+| "assist me", "what should I do?", "నేను ఏం చేయాలి?", `/assistant`, or Jayasri starts talking about her work | `assistant` — the front door; runs the whole session and calls the rest |
 | "what now", "ఇప్పుడు ఏం చేయాలి", "next", or just opening a session | `what-now` |
 | "done", "అయింది", "posted", "called" | `done` |
 | about to upload a clip, "which channel" | `post-check` |
