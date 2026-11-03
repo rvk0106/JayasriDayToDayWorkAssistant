@@ -9,3 +9,4 @@
 | Date | From | Question | Answer (Vamsi) |
 |---|---|---|---|
 | 2026-11-03 | Jayasri | Orphanage contact Srinivas garu — please share his phone number (needed for the Nov 20 reminder message) | |
+| 2026-11-03 | Jayasri | Orphanage treasure hunt: 3 or 5 questions per team? Proposal in `events/orphanage-2026-11-21.md` → Decisions (5 per team: Grade 1, 2–3, 5, 6–7, 10 — so more of the ~10 mixed-age children get a turn). 5 means a 5-digit box code — can the box/card generator take it? Jayasri is fine with either. | |

@@ -23,7 +23,7 @@
 - Teams and colours: **5 teams** — Red, Blue, Green, Yellow, Orange ✅
 - Children per team: **~10–11, every team mixed across all grades** (small and big children together) ✅
 - Dividing the teams: with Srinivas garu's help — he knows the children; ask him in the Nov 20 reminder to help split them on the day ✅
-- Questions per grade per team: _?_
+- Questions per team: 🔄 **3 or 5 — Vamsi to decide** (Jayasri fine with either). Proposal: 5 per team — Grade 1 · Grade 2–3 · Grade 5 · Grade 6–7 · Grade 10; one card at a time, each card says who answers it (small / big children), each answer a number, the numbers make the box code. 5 answers = 5-digit code → box setup change (Vamsi's R&D).
 - Story: _which, who reads_
 - Energiser: _?_
 - Gifts: _Jayasri's proposal — what, how many, rough cost_ (she thinks it through; Vamsi weighs in on the weekend)
