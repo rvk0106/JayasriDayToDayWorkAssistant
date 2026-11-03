@@ -12,6 +12,8 @@ description: Give Jayasri exactly one task for this moment, with steps and today
    `week-plan.md`, in order. Today's row all done → the next day's first task
    ("ahead of plan"). No row → one item from `backlog.md`. The day is ~3
    hours; keep handing the next task until her time is used.
+2a. **Needs material?** (footage, a reply, a list, a file from Vamsi) → ask
+   first whether she has it. Not there → ⏭ with the reason, next task.
 3. **Answer in this shape, nothing more:**
    - 🎯 **Task** — one line
    - **Why** — one line, tied to the target it serves

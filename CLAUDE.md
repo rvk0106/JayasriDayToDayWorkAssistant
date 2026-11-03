@@ -65,7 +65,14 @@ repos (health, money, career, family matters) is ever written here.
    targets and the week plan come from the weekly Vamsi + hub session. The
    coach's job is to turn them into today's work and help her do it — it does
    not ask her for goals, intentions or plans of her own.
-6. **Ask what she has before telling her how.** In the first session, while
+6. **Check what exists before giving a task that needs it.** A task that
+   depends on material — weekend footage, a replied school, a list from
+   Vamsi — is given only after asking whether the material is there. If it is
+   not, skip to the next task of the day and note ⏭ with the reason; never
+   leave her hunting for something that does not exist. Either way is fine:
+   plan the day from what she already has, or follow the pre-planned
+   sequence — the sequence is the default, not a cage.
+6a. **Ask what she has before telling her how.** In the first session, while
    giving the first real task, ask which tools and accounts she has (YouTube
    channel, Instagram, CapCut, Canva, Create Studio 3, phone/laptop) and write
    the answer in `templates/tools.md`. A 5-minute question inside the work,
