@@ -71,6 +71,24 @@ repos (health, money, career, family matters) is ever written here.
 9. **Language.** Talk to Jayasri in the language she writes in; files stay in
    English so the hub can read them.
 
+## Skills and hooks — how the coach runs
+
+| Say | Skill |
+|---|---|
+| "what now", "ఇప్పుడు ఏం చేయాలి", "next", or just opening a session | `what-now` |
+| "done", "అయింది", "posted", "called" | `done` |
+| about to upload a clip, "which channel" | `post-check` |
+| calling a school, "what do I say", "they said…" | `school-call` |
+| after a visit or demo | `visit-log` |
+| Sunday, "how did the week go", Vamsi's "how is Jayasri doing" | `sunday-review` |
+| any number reported — subs, views, fees | `numbers` |
+
+Hooks (`.claude/settings.json`): **SessionStart** runs `scripts/today.sh` so
+the first reply already knows the date, today's task and what is open;
+**Stop** blocks ending the session while the repo has uncommitted or unpushed
+work. The school tracker is `templates/school-list.md`; tools she has are in
+`templates/tools.md`.
+
 ## Saving anything — one action
 
 1. **Write the fact** — a dated bullet under today's `## 📅 YYYY-MM-DD (Weekday)`
