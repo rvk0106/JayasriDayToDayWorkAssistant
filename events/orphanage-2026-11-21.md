@@ -32,6 +32,7 @@
   - For the children: **cut fruit as the evening snack** — guava, apple, banana or watermelon ✅
 - Hunt format: **paper hunt, box at the end** ✅ (Jayasri, 04 Nov) — each team its own paper question cards (no tags, colours stay Red/Blue/Green/Yellow/Orange); different questions per team, the same last two answers = the 2-digit box key; first team to bring the key opens the box (Vamsi lays the Red tag card, the team types key + `#`)
   - Box key: **84** — card 2 answer = **8**, card 3 answer = **4**, on every team's path ✅ (Jayasri, 04 Nov; already set in the box as Red path 1)
+  - Skooly robot: **no robot at this session** ✅ (Jayasri, 04 Nov)
   - Who answers which card: **card 1 (warm-up) — small children (5–10 yrs) · card 2 → 8 — middle (Grade 4–6) · card 3 → 4 — big children (Grade 7–10)** ✅ (Jayasri, 04 Nov)
   - **Magic Box: one box for all 5 teams — the first team to open it wins the box gifts** (~10–11 children) ✅ (Jayasri)
   - Inside the box (winning team): **a small chocolate packet each — 12** (10–11 + 1 spare) ✅
@@ -62,7 +63,7 @@ Run order total ≈ 60 min (draft minutes kept — Jayasri, 3 Nov).
 **On the day**
 - [ ] Phone/camera for photos (permission given)
 
-## 🧩 Box reality check — discuss with Jayasri before writing questions (Vamsi, 04 Nov)
+## 🧩 Box reality check — discuss with Jayasri before writing questions (Vamsi, 04 Nov) · ✅ done 04 Nov, answers in Decisions
 
 Vamsi, 04 Nov: *"discuss it with her clearly — I have no time for R&D before CCFA, so work out with her how to manage with the box as it is."*
 **No new R&D:** no new tags, no firmware change, no new box features. The plan fits the box, not the other way round.
