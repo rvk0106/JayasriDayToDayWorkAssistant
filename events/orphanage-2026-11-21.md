@@ -59,5 +59,35 @@ Run order total ≈ 60 min (draft minutes kept — Jayasri, 3 Nov).
 **On the day**
 - [ ] Phone/camera for photos (permission given)
 
+## 🧩 Box reality check — discuss with Jayasri before writing questions (Vamsi, 04 Nov)
+
+Vamsi, 04 Nov: *"discuss it with her clearly — I have no time for R&D before CCFA, so work out with her how to manage with the box as it is."*
+**No new R&D:** no new tags, no firmware change, no new box features. The plan fits the box, not the other way round.
+
+**What the box does today** (read from `Tutorcross-Experiments/experiments/decode-locker` on 04 Nov — files, not checked on the box):
+- One Magic Box. It opens only when **a tagged card is laid on it AND the right 2-digit key is typed, then `#`**. Wrong → three beeps. One path is live at a time; Vamsi sets it with his SET KEY card.
+- **Only Red is ready:** Grade 1 deck printed and pouched, tags written. Purple logic deck generated 28 Oct (printed/tags not recorded). Blue, Green, Yellow: no tags — the box cannot open for them. Orange is not a box colour.
+- In the box's own game, answers lead **card to card** (START → set 1 … set 5); they do not add up to a code.
+- Cards exist for **Grade 1 only.**
+
+**Where today's plan does not fit:** (1) a 5-digit code — the box takes a 2-digit key; (2) 5 teams, each opening the box — only Red can; (3) questions for Grades 1–10 — only Grade 1 cards exist.
+
+**One way that works with the box as it is** (the coach's suggestion — Jayasri decides, and may change any part):
+- **Paper hunt, box at the end.** Every team gets its own question cards, written by Jayasri (any grades, small/big children marked) — no tags, no generator, so the team colours can stay Red/Blue/Green/Yellow/Orange.
+- **The last two answers on every team's path are the two digits of the box key** — e.g. **8** and **4** → key **84** (Red path 1, already in the box). Different questions for each team, the same two final answers. Her "answers make the code" idea stays — just 2 digits, not 5.
+- **3 cards per team** = 1 warm-up question + 2 digit questions · **5 cards** = 3 + 2. Either works.
+- At the box: the team brings its digits; Vamsi lays the Red tag card (he keeps it) and the team types the key + `#`. One team at the box at a time, keypad covered from the line. First team to open wins.
+- **Box test the day before** (10 min, from `how-to-run.md` → "Before the day"): Red card + key 84 + `#` must open; a plain card must beep.
+
+**Skooly robot (optional, not part of the game).** Vamsi: *"if needed we can run Skooly too, but its programming deflects to the other side — check that carefully."* The record shows turn and drift fixes through Sep–Oct and one motor found stuck (fix not recorded). **Default: no robot.** If wanted, only as a 2-minute "wow" demo by Vamsi at the end — and only if a check the day before (forward, then a right turn — does it really turn right?) passes. That check is Vamsi's, after CCFA.
+
+**Questions for the coach to ask Jayasri, one at a time:**
+1. Paper hunt with the box at the end — OK, or a change?
+2. 3 or 5 cards per team?
+3. The two final answers (the key digits) — keep 8 and 4?
+4. On each team's path, which card is for small children and which for big?
+5. Robot demo at the end — yes (only if Vamsi's check passes) or no?
+Her answers go into **Decisions** above; then the question sets are written to fit.
+
 ## For Vamsi (R&D only)
 - card generator run with the final sets · box firmware/tags · combined-code setup
