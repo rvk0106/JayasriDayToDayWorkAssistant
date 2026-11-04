@@ -30,6 +30,7 @@
 - Gifts — **no stationery** (Srinivas garu asked; the home wanted groceries) ✅
   - For the home: **one 25 kg rice bag** ✅
   - For the children: **cut fruit as the evening snack** — guava, apple, banana or watermelon ✅
+- Hunt format: **paper hunt, box at the end** ✅ (Jayasri, 04 Nov) — each team its own paper question cards (no tags, colours stay Red/Blue/Green/Yellow/Orange); different questions per team, the same last two answers = the 2-digit box key; first team to bring the key opens the box (Vamsi lays the Red tag card, the team types key + `#`)
   - **Magic Box: one box for all 5 teams — the first team to open it wins the box gifts** (~10–11 children) ✅ (Jayasri)
   - Inside the box (winning team): **a small chocolate packet each — 12** (10–11 + 1 spare) ✅
   - For every child at the end ("everyone played well"): **a chikki packet — 60** ✅
