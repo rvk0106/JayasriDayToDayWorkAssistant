@@ -1,7 +1,10 @@
 {
   "hooks": {
     "SessionStart": [
-      { "hooks": [ { "type": "command", "command": "bash .claude/hooks/session-start.sh" } ] }
+      { "hooks": [ { "type": "command", "command": "bash .claude/hooks/sync.sh --force; bash .claude/hooks/session-start.sh", "timeout": 60 } ] }
+    ],
+    "UserPromptSubmit": [
+      { "hooks": [ { "type": "command", "command": "bash .claude/hooks/sync.sh", "timeout": 60 } ] }
     ],
     "Stop": [
       { "hooks": [ { "type": "command", "command": "bash .claude/hooks/stop-check.sh" } ] }

@@ -176,8 +176,15 @@ numbered, timed tasks.
 | Sunday, "how did the week go", Vamsi's "how is Jayasri doing" | `sunday-review` |
 | any number reported — subs, views, fees | `numbers` |
 
-Hooks (`.claude/settings.json`): **SessionStart** runs `scripts/today.sh` so
+Hooks (`.claude/settings.json`): **SessionStart** first auto-pulls this repo
+and DailyUpdates (`.claude/hooks/sync.sh`), then runs `scripts/today.sh` so
 the first reply already knows the date, today's task and what is open;
+**UserPromptSubmit** auto-pulls again, at most every 3 minutes, so an open
+session picks up what Vamsi pushed from his sitting (Vamsi, 2026-11-04: *"the
+data should auto-pull into that session"*). When it reports 📬 answers in
+`questions-for-vamsi.md`, tell Jayasri at the next natural pause; when it
+reports a changed `week-plan.md` or `goals.md`, re-read before the next task;
+when it reports a failed pull, run `git pull` before writing anything.
 **Stop** blocks ending the session while the repo has uncommitted or unpushed
 work. The school tracker is `templates/school-list.md`; tools she has are in
 `templates/tools.md`.
