@@ -1,5 +1,6 @@
 # School intro message — Telugu (draft, 2026-11-03)
 
+> **04 Nov: not needed for the Sattupalli schools** — they are approached in person through Vamsi's father in December. Kept for later areas (Khammam, Hyderabad).
 > Drafted by the coach with Jayasri on Tue 3 Nov. Status: 🔄 draft — Jayasri
 > discusses it with Vamsi at the weekend sitting, then finalises it.
 > Vamsi is known to these government schools from his earlier social welfare
