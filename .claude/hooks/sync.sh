@@ -34,7 +34,9 @@ pull() {  # $1 = repo dir, $2 = label
   local dir="$1" label="$2" old new
   cd "$dir" || return
   old=$(git rev-parse HEAD 2>/dev/null)
-  if ! timeout 25 git pull -q --rebase --autostash origin main >/dev/null 2>&1; then
+  # `timeout` is GNU-only; on a Mac without it, pull without the limit
+  local t=""; command -v timeout >/dev/null 2>&1 && t="timeout 25"
+  if ! $t git pull -q --rebase --autostash origin main >/dev/null 2>&1; then
     git rebase --abort >/dev/null 2>&1
     echo "⚠️ Auto-pull of $label failed (offline or a conflict) — run git pull in $label before writing."
     return

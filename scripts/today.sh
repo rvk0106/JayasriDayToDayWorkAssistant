@@ -6,6 +6,12 @@ cd "$(dirname "$0")/.." || exit 0
 export TZ=Asia/Kolkata
 today=$(date +%Y-%m-%d); day=$(date +%a); dom=$(date +%-d); mon=$(date +%b)
 echo "📅 Today: $today ($day) · time now $(date +%H:%M) IST · week $(( (dom + 6) / 7 ))"
+# Her own target dates (week-plan.md → 🗓️ Her dates): shown every session until ✅
+dates=$(awk '/^## 🗓️ Her dates/{on=1;next} /^##/{on=0} on && /^- / && !/✅/' week-plan.md)
+if [ -n "$dates" ]; then
+  echo "🗓️ Her dates — remind her of each one; ask for a date where it says ❓ (compare with today):"
+  echo "$dates" | sed 's/^- /   • /'
+fi
 case "$day" in Sat|Sun) echo "🏖️ Weekend — leave. If she has come to make up a missed weekday, give the oldest unticked task of the week; otherwise nothing."; ;; esac
 if grep -qE "^\| *$day $mon $dom *\| *🏖️" week-plan.md; then echo "🏖️ Day off (see week-plan.md → Calendar). No tasks today."; exit 0; fi
 # today's row in week-plan.md: "| Tue Nov 3 |" style

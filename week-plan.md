@@ -11,6 +11,14 @@
 - 🎯 **Dec 2026: Skoolyng YouTube 500 subscribers min (2000 stretch)** — one video every 2 weeks
 - 🗓️ **Sat 2026-11-21, afternoon: orphanage pilot** — Jayasri plans and prepares the session, Vamsi drives it in the room
 
+## 🗓️ Her dates
+
+> Target dates Jayasri sets for herself. The coach asks for a date whenever a
+> task has none, writes it here, and reminds her at every session start until
+> it is ✅ (Vamsi, 2026-11-04). `scripts/today.sh` prints this section.
+
+- ❓ **Video 1 voice-over** (Yashvi candle-light) — her voice or Yashvi's, her call · **no date yet: ask Jayasri for her target date at the start of her next session and write it here**
+
 ### Orphanage run-up — Jayasri plans and prepares the session (Vamsi, 2026-11-03: she is the event manager)
 
 A draft plan already exists (Vamsi's, end of Oct, in `Tutorcross-Experiments`):
@@ -54,7 +62,7 @@ Vamsi's.
 | Day | Tasks, in order (≈ time) | Playbook | Status |
 |---|---|---|---|
 | Tue Nov 3 | 1. Tell the coach which tools/accounts you have, and **what footage is on hand** (10 min) · 2. **Orphanage session plan** — go through the draft with the coach, decide every open point, finalise `events/orphanage-2026-11-21.md`, derive the material list (60–75 min) · 3. **Sattupalli first:** list 5 public/government schools there for December — name, grades, a contact (Vamsi's father's contacts first) (45 min) · 4. Telugu intro message for schools, 4 lines (30 min) · 5. **Video 1: edit the footage on hand and upload to Tutorcross** (rest of the day; carries over) | run-up above · `school-outreach.md` §1–2 | 1 ✅ (footage: Yashvi candle-light experiment — half on her phone, half on the camera) · 2 ✅ orphanage plan finalised + material list · 3 ✅ 10 schools listed from Vamsi's father (6 Sattupalli, 4 Khammam) · 4 🔄 intro message drafted (`templates/school-intro-message.md`) — finalised after discussing with Vamsi · 5 🔄 today: all footage (phone + camera) into Canva; footage uploaded to Canva and placed on the timeline ✅; trim/title next; Yashvi's voice-over (≥1 h with her — best on a weekend; timing asked to Vamsi in `questions-for-vamsi.md`), then upload ⏭ Wed |
-| Wed Nov 4 | 1. **Orphanage: Grade 1, Grade 5 and Grade 10 question sets** — per team colour, as the finalised plan says; all three to Vamsi via `questions-for-vamsi.md` so the cards are generated during Goa (2 h) · 2. Message schools 1 and 2 with the intro (20 min) · 3. Video 1: continue / upload if close (rest) | run-up · `school-outreach.md` §2 | note: 2 waits on Vamsi's OK on the intro message; voice-over timing — check Vamsi's answer first |
+| Wed Nov 4 | 1. **Orphanage: Grade 1, Grade 5 and Grade 10 question sets** — per team colour, as the finalised plan says; all three to Vamsi via `questions-for-vamsi.md` so the cards are generated during Goa (2 h) · 2. Message schools 1 and 2 with the intro (20 min) · 3. Video 1: continue / upload if close (rest) | run-up · `school-outreach.md` §2 | note: 2 unblocked — Vamsi settled the intro message with Jayasri directly (04 Nov); voice-over is hers, date of her choosing (see 🗓️ Her dates) |
 | Thu Nov 5 | 🏖️ Travel day — bus 18:45. No tasks. (If video 1 is one step from upload, upload it; otherwise it waits.) | — | |
 | Fri Nov 6 – Mon Nov 9 | 🏖️ Goa — no tasks, no check-ins. Mon Nov 9 = arrival morning, off. | — | |
 
