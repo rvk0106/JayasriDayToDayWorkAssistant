@@ -70,7 +70,7 @@ Vamsi's.
 
 | Day | Tasks, in order (≈ time) | Playbook | Status |
 |---|---|---|---|
-| Tue Nov 10 | 1. Follow up schools 1–2; message schools 3, 4, 5 (40 min) · 2. **Orphanage: story + 2 questions in Telugu**, read aloud once, timed (60 min) · 3. Video 1: upload if still open (rest) | `school-outreach.md` §2 · run-up | |
+| Tue Nov 10 | 1. Follow up schools 1–2; message schools 3, 4, 5 (40 min) · 2. ~~Orphanage: story + 2 questions in Telugu~~ — now Vamsi's (he prepares the story + PPT and goes through it with you; 04 Nov) → take a backlog task instead (60 min) · 3. Video 1: upload if still open (rest) | `school-outreach.md` §2 · run-up | |
 | Wed Nov 11 | 1. Orphanage: Vamsi's corrections on the question sets applied, sets final (45 min) · 2. Review the Magic Box as a child would, note what confused you (45 min) · 3. Generic Skoolyng deck: placeholders, every slide checked (60 min) | run-up · `kit-review.md` · `deck-prep.md` §4 | |
 | Thu Nov 12 | 1. **Orphanage: print decks + path sheets, cut, pouch; teacher cards + cheat sheet** (75 min) · 2. Material list checked against the finalised plan — what to buy, make (30 min) · 3. Call 2 activity centres for fees and batch size (30 min) · 4. School list update with every reply (20 min) | run-up · `deck-prep.md` §4 | |
 | Fri Nov 13 | 1. 🗓️ **Shortlist done: 5 Sattupalli schools with contact status, sent to Vamsi** (30 min) · 2. **Video 2: edit and upload** (rest of the day) · 3. Find 3 more Sattupalli/Khammam government schools with phone numbers (30 min) | `school-outreach.md` · `numbers` | |

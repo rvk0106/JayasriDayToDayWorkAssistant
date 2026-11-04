@@ -2,12 +2,12 @@
 
 > Jayasri's event plan, finalised with the coach on Tue 3 Nov. The draft below
 > is Vamsi's from end of October; every line is hers to keep or change.
-> Status: ✅ finalised by Jayasri, Tue 3 Nov — open only: question count (3 or 5), story, Srinivas garu's phone (all with Vamsi, `questions-for-vamsi.md`).
+> Status: ✅ finalised by Jayasri, Tue 3 Nov — open only: question count (3 or 5 — Jayasri's call, 04 Nov) · story (Vamsi prepares, discusses with Jayasri directly) · Srinivas garu's phone ✅ (given directly, 04 Nov).
 
 ## Facts (from the call, 3 Nov)
 - Children: 53 · ages 5–15 · up to Grade 5: ~30 · Grades 6–10: ~23 · room: cellar, children sit on the floor — no tables
 - Photos: ✅ allowed (Jayasri, from the call) · video: _to confirm_
-- Contact on the day: Srinivas garu · phone: with Vamsi (asked in `questions-for-vamsi.md`)
+- Contact on the day: Srinivas garu · phone: Vamsi gave it to Jayasri directly (04 Nov) — not written here, the repo is public
 
 ## Run order (draft — decide each step)
 | # | Step | Minutes | Who | Needs | Keep / change |
@@ -23,7 +23,7 @@
 - Teams and colours: **5 teams** — Red, Blue, Green, Yellow, Orange ✅
 - Children per team: **~10–11, every team mixed across all grades** (small and big children together) ✅
 - Dividing the teams: with Srinivas garu's help — he knows the children; ask him in the Nov 20 reminder to help split them on the day ✅
-- Questions per team: 🔄 **3 or 5 — Vamsi to decide** (Jayasri fine with either). Proposal: 5 per team — Grade 1 · Grade 2–3 · Grade 5 · Grade 6–7 · Grade 10; one card at a time, each card says who answers it (small / big children), each answer a number, the numbers make the box code. 5 answers = 5-digit code → box setup change (Vamsi's R&D).
+- Questions per team: 🔄 **3 or 5 — Jayasri's call** (Vamsi, 04 Nov: either is fine, keep it balanced). Proposal: 5 per team — Grade 1 · Grade 2–3 · Grade 5 · Grade 6–7 · Grade 10; one card at a time, each card says who answers it (small / big children), each answer a number, the numbers make the box code. 5 answers = 5-digit code → box setup change (Vamsi's R&D).
 - Story: **Vamsi picks the story and tells it** (with its 2 questions); Jayasri organises ✅
 - Warm-up: **how-to-play demo** with one sample question — Vamsi leads it ✅
 - Energiser: **clap-pattern repeat** (Vamsi + Jayasri decided) — Vamsi leads it ✅
