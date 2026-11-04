@@ -17,7 +17,7 @@
 > task has none, writes it here, and reminds her at every session start until
 > it is ✅ (Vamsi, 2026-11-04). `scripts/today.sh` prints this section.
 
-- ❓ **Video 1 voice-over** (Yashvi candle-light) — her voice or Yashvi's, her call · **no date yet: ask Jayasri for her target date at the start of her next session and write it here**
+- 🗓️ **Video 1 voice-over + post** (Yashvi candle-light) — **Yashvi's voice** (Jayasri, 04 Nov) · posted on Tutorcross by **Fri Nov 13 or Sat Nov 14** (her date)
 
 ### Orphanage run-up — Jayasri plans and prepares the session (Vamsi, 2026-11-03: she is the event manager)
 
