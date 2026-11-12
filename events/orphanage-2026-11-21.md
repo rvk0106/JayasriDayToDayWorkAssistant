@@ -40,7 +40,7 @@
 
 Run order total ≈ 60 min (draft minutes kept — Jayasri, 3 Nov).
 
-## Question sets — 🔄 draft by the coach, 12 Nov (Jayasri finalises)
+## Question sets — ✅ final (Jayasri, 12 Nov; drafted by the coach, Red card 2 changed by her)
 
 English on the cards (Jayasri, 12 Nov). 3 cards per team; card 2 answer is always **8**, card 3 is always **4** → box key **84**. Levels pitched from the Telangana SCERT Maths books (Class 3, 5, 7 — read from Drive 12 Nov; extracts stopped at p.72).
 
