@@ -62,7 +62,7 @@ English on the cards (Jayasri, 12 Nov). 3 cards per team; card 2 answer is alway
 | Orange | 2 | middle | Rani has ₹40. One pencil costs ₹5. How many pencils can she buy? | 8 | Class 5 Ch 2 (money) |
 | Orange | 3 | big | A father is 9 times as old as his son. Together they are 40 years old. How old is the son? | 4 | Class 7 Ch 3 (ages) |
 
-Printable: `events/print/orphanage-hunt-cards.pdf` — 15 cards + 1 warm-up sample card (6 per A4, colour band per team, no answers on the cards) + a teacher cheat sheet with all answers and the key.
+Printable: `events/print/orphanage-hunt-cards.pdf` — in the Magic Box deck style (55 × 80 mm slips, 9 per A4, as Jayasri asked 12 Nov): 15 cards + 1 warm-up sample card, colour header per team, no answers on the cards, + a teacher cheat sheet with all answers and the key. Regenerate with `events/print/make_cards.py <decode-locker cards/art dir>`.
 
 ## Material list (derived from the plan, 3 Nov)
 **Teams**
