@@ -18,9 +18,9 @@ def card(bg, fg, t, n, q, art, foot):
             f'<div class="n">{n}</div></div><div class="art"><img src="{img(art)}"></div>'
             f'<div class="q">{q}</div><div class="foot">{foot}</div></div>')
 cards = [card(*COL[t], f"{t.upper()} TEAM · CARD", f"{n} of 3", html.escape(q), ARTS[n],
-              f"{WHO[w]} · then bring this card to the table") for t, n, w, q, a in rows]
+              WHO[w]) for t, n, w, q, a in rows]
 cards.append(card("#555", "#fff", "WARM-UP · HOW TO PLAY", "SAMPLE", "3 + 2 = ?", "treasure.jpg",
-                  "Answer → bring the card → get your next card"))
+                  "Everyone watches"))
 cheat = "".join(f'<tr><td style="color:{COL[t][0] if t!="Yellow" else "#b48a00"};font-weight:bold">{t}</td><td>{n}</td>'
                 f'<td>{w}</td><td>{html.escape(q)}</td><td class="k">{html.escape(a)}</td></tr>' for t, n, w, q, a in rows)
 CSS = """@page { size: A4 portrait; margin: 10mm; } body { font-family: 'DejaVu Sans', Arial, sans-serif; margin: 0; color: #222; }
@@ -30,7 +30,7 @@ CSS = """@page { size: A4 portrait; margin: 10mm; } body { font-family: 'DejaVu 
 .head .n { font-size: 9mm; line-height: 1.1; }
 .art { height: 18mm; text-align: center; padding-top: 1.5mm; } .art img { height: 18mm; width: auto; }
 .q { flex: 1; display: flex; align-items: center; justify-content: center; text-align: center; padding: 1.5mm 2.5mm; font-size: 4.4mm; line-height: 1.3; }
-.foot { font-size: 2.8mm; text-align: center; padding: 2mm; color: #333; border-top: 0.3mm solid #ddd; }
+.foot { font-size: 4mm; font-weight: bold; text-align: center; padding: 2mm; color: #333; border-top: 0.3mm solid #ddd; }
 h1 { font-size: 7mm; margin: 0 0 3mm; } p { font-size: 4mm; } table { border-collapse: collapse; width: 100%; font-size: 3.6mm; }
 td, th { border: 0.3mm solid #999; padding: 1.5mm 2mm; text-align: left; vertical-align: top; } .k { font-weight: bold; font-size: 5mm; }"""
 body = "".join(f'<div class="sheet">{"".join(cards[i:i+9])}</div>' for i in range(0, len(cards), 9))
