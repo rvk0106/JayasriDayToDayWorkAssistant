@@ -40,6 +40,28 @@
 
 Run order total ≈ 60 min (draft minutes kept — Jayasri, 3 Nov).
 
+## Question sets — 🔄 draft by the coach, 12 Nov (Jayasri finalises)
+
+English on the cards (Jayasri, 12 Nov). 3 cards per team; card 2 answer is always **8**, card 3 is always **4** → box key **84**. Levels pitched from the Telangana SCERT Maths books (Class 3, 5, 7 — read from Drive 12 Nov; extracts stopped at p.72).
+
+| Team | Card | Who | Question | Answer | Pitched from |
+|---|---|---|---|---|---|
+| Red | 1 | small | 🔴🔵🔴🔵🔴 — which colour comes next? | Blue | Class 3 Ch 12 Patterns |
+| Red | 2 | middle | 2, 4, 6, __ — what comes next? | 8 | Class 3 Ch 5 number patterns |
+| Red | 3 | big | Ramu is twice as old as Sita. Together they are 12. How old is Sita? | 4 | Class 7 Ch 3 Simple Equations |
+| Blue | 1 | small | A fan has 3 blades. How many blades do 2 fans have? | 6 | Class 3 Ch 6 (counting in groups) |
+| Blue | 2 | middle | 4 children share 32 chocolates equally. How many does each child get? | 8 | Class 3 Ch 7 Division / Class 5 Ch 2 |
+| Blue | 3 | big | Three numbers in a row (like 1, 2, 3) add up to 15. What is the smallest number? | 4 | Class 7 Ch 3 (consecutive integers) |
+| Green | 1 | small | 100, 200, 300, __ — what comes next? | 400 | Class 3 Ch 5 (p.~54) |
+| Green | 2 | middle | A goat has 4 legs. How many legs do 2 goats have? | 8 | Class 3 Ch 6 (legs of goats) |
+| Green | 3 | big | I think of a number. I multiply it by 3 and add 5. I get 17. What is my number? | 4 | Class 7 Ch 3 |
+| Yellow | 1 | small | A bicycle has 2 wheels. How many wheels do 3 bicycles have? | 6 | Class 3 Ch 6 (wheels) |
+| Yellow | 2 | middle | A box has 2 rows of chocolates, 4 in each row. How many chocolates in the box? | 8 | Class 3 Ch 6 (rows × columns) |
+| Yellow | 3 | big | A class has 10 children. There are 2 more girls than boys. How many boys? | 4 | Class 7 Ch 3 (p.~65) |
+| Orange | 1 | small | 10, 20, 30, __ — what comes next? | 40 | Class 3 Ch 5 |
+| Orange | 2 | middle | Rani has ₹40. One pencil costs ₹5. How many pencils can she buy? | 8 | Class 5 Ch 2 (money) |
+| Orange | 3 | big | A father is 9 times as old as his son. Together they are 40 years old. How old is the son? | 4 | Class 7 Ch 3 (ages) |
+
 ## Material list (derived from the plan, 3 Nov)
 **Teams**
 - [ ] Colour bands/cards — Red, Blue, Green, Yellow, Orange, 12 each (60)
