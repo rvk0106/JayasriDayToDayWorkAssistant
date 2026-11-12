@@ -47,7 +47,7 @@ English on the cards (Jayasri, 12 Nov). 3 cards per team; card 2 answer is alway
 | Team | Card | Who | Question | Answer | Pitched from |
 |---|---|---|---|---|---|
 | Red | 1 | small | 🔴🔵🔴🔵🔴 — which colour comes next? | Blue | Class 3 Ch 12 Patterns |
-| Red | 2 | middle | 2, 4, 6, __ — what comes next? | 8 | Class 3 Ch 5 number patterns |
+| Red | 2 | middle | Ravi has 15 mangoes. He gives 7 to his friend. How many mangoes are left? | 8 | Class 3 Ch 4 Subtraction (changed by Jayasri, 12 Nov) |
 | Red | 3 | big | Ramu is twice as old as Sita. Together they are 12. How old is Sita? | 4 | Class 7 Ch 3 Simple Equations |
 | Blue | 1 | small | A fan has 3 blades. How many blades do 2 fans have? | 6 | Class 3 Ch 6 (counting in groups) |
 | Blue | 2 | middle | 4 children share 32 chocolates equally. How many does each child get? | 8 | Class 3 Ch 7 Division / Class 5 Ch 2 |
