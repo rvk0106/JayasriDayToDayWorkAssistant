@@ -11,3 +11,12 @@
 - Carried to Thu Nov 12: orphanage question sets (15 cards, before the print) · Magic Box review as a child · generic Skoolyng deck check
 - Blockers ⛔: none
 - Tomorrow: orphanage question sets first, then the print (decks, path sheets, pouches)
+
+## 📅 2026-11-12 (Thursday)
+
+### 🌙 Day summary
+- Worked from 10:12 (end time not recorded)
+- Done: orphanage question sets finalised (15 cards, English, key 84; Red card 2 changed by Jayasri) · cards printed in the Magic Box card size + cheat sheet
+- Changed: Video 1 voice-over moved to the weekend (Sat Nov 14 – Sun Nov 15), then post
+- Carried: cut + pouch (Fri) · Magic Box review · generic deck check · activity-centre calls · material list check
+- Blockers ⛔: none
