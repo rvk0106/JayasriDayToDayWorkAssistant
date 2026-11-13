@@ -20,3 +20,12 @@
 - Changed: Video 1 voice-over moved to the weekend (Sat Nov 14 – Sun Nov 15), then post
 - Carried: cut + pouch (Fri) · Magic Box review · generic deck check · activity-centre calls · material list check
 - Blockers ⛔: none
+
+## 📅 2026-11-13 (Friday)
+
+### 🌙 Day summary
+- Worked 10:16–11:29 (1h 13m), closing the day with the pouches
+- Done: all 16 orphanage hunt cards cut · 🔄 packing into the 5 team pouches (finishing today)
+- Carried to Mon Nov 16: shortlist check → Vamsi · 3 more schools with phone numbers · Video 2
+- Weekend: Video 1 voice-over by Yashvi (Sat–Sun), then post on Tutorcross
+- Blockers ⛔: none
