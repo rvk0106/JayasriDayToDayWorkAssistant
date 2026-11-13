@@ -17,6 +17,7 @@
 > task has none, writes it here, and reminds her at every session start until
 > it is ✅ (Vamsi, 2026-11-04). `scripts/today.sh` prints this section.
 
+- ❓ **Tutorcross moral-story video** (Jayasri's own, 13 Nov) — pick a moral story · content · her voice-over · visuals · upload to Tutorcross · **no date yet: ask her on Mon Nov 16**
 - 🗓️ **Video 1 voice-over + post** (Yashvi candle-light) — **Yashvi's voice** (Jayasri, 04 Nov) · voice-over this weekend **Sat Nov 14 – Sun Nov 15**, then posted on Tutorcross (her date, moved 12 Nov from Nov 13/14) · 🔄 11 Nov: edit done
 
 ### Orphanage run-up — Jayasri plans and prepares the session (Vamsi, 2026-11-03: she is the event manager)
@@ -79,7 +80,7 @@ Vamsi's.
 
 | Day | Tasks, in order (≈ time) | Playbook | Status |
 |---|---|---|---|
-| Mon Nov 16 | 0. ⏭ 🗓️ Shortlist check → to Vamsi (30 min) · 0b. ⏭ 3 more Sattupalli/Khammam govt schools with phones (30 min) · 0c. ⏭ Video 2: edit and upload (rest) · 1. Orphanage: energiser + warm-up props ready; gifts, chocolates, snacks for the headcount + spare listed and ordered (60 min) · 2. Question sets checked against Vamsi's generated cards, fixes noted (45 min) · 3. Call schools that replied, ask for a 15-min meeting (45 min) | run-up · `school-outreach.md` §2 | |
+| Mon Nov 16 | 🔔 **Remind first (Jayasri asked, 13 Nov): Tutorcross moral-story video** — pick a moral story, prepare the content, her voice-over, visuals, upload to Tutorcross · 0. ⏭ 🗓️ Shortlist check → to Vamsi (30 min) · 0b. ⏭ 3 more Sattupalli/Khammam govt schools with phones (30 min) · 0c. ⏭ Video 2: edit and upload (rest) · 1. Orphanage: energiser + warm-up props ready; gifts, chocolates, snacks for the headcount + spare listed and ordered (60 min) · 2. Question sets checked against Vamsi's generated cards, fixes noted (45 min) · 3. Call schools that replied, ask for a 15-min meeting (45 min) | run-up · `school-outreach.md` §2 | |
 | Tue Nov 17 | 1. Video 2: finish and upload if not done; post to Instagram (45 min) · 2. Review the Decode Locker as a child would (45 min) · 3. School follow-ups and list update (40 min) | `kit-review.md` · `school-outreach.md` | |
 | Wed Nov 18 | 1. **Orphanage dry run at home with Yashvi** — one colour, one path, the box opens; plan corrected (90 min) · 2. School follow-ups (30 min) · 3. Deck for the grades of any school that fixed a meeting (60 min) | run-up · `deck-prep.md` §2 | |
 | Thu Nov 19 | 1. Orphanage: anything the dry run broke — reprint, re-pouch, fix (60 min) · 2. 2 activity-centre fee calls (30 min) · 3. Find 3 more schools (40 min) · 4. School list update (20 min) | run-up | |
