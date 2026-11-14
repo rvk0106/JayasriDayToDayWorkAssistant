@@ -29,3 +29,13 @@
 - Carried to Mon Nov 16: shortlist check → Vamsi · 3 more schools with phone numbers · Video 2
 - Weekend: Video 1 voice-over by Yashvi (Sat–Sun), then post on Tutorcross
 - Blockers ⛔: none
+
+## 📅 2026-11-14 (Saturday — leave day, she chose to work)
+
+### 🌙 Day summary
+- Worked 09:52–10:12
+- Decided: school shortlist and visits move to December (dates → talk with Vamsi's father → confirm schools → visit)
+- Open: orphanage date — she calls Srinivas garu to ask Tue Nov 24 (school holiday) or the weekend after; Nov 21 stands until then
+- This evening: Video 1 voice-over with Yashvi, then post on Tutorcross
+- Blockers ⛔: none
+- Monday: 🔔 moral-story video reminder · orphanage date from the call · Video 2
