@@ -17,8 +17,8 @@
 > task has none, writes it here, and reminds her at every session start until
 > it is ✅ (Vamsi, 2026-11-04). `scripts/today.sh` prints this section.
 
-- ❓ **Tutorcross moral-story video** (Jayasri's own, 13 Nov) — pick a moral story · content · her voice-over · visuals · upload to Tutorcross · **no date yet: ask her on Mon Nov 16**
-- 🗓️ **Video 1 voice-over + post** (Yashvi candle-light) — **Yashvi's voice** (Jayasri, 04 Nov) · voice-over this weekend **Sat Nov 14 – Sun Nov 15**, then posted on Tutorcross (her date, moved 12 Nov from Nov 13/14) · 🔄 11 Nov: edit done
+- 🗓️ **Tutorcross moral-story video** (Jayasri's own, 13 Nov) — she picks a moral story, prepares the content, her voice-over, visuals · **upload by Wed Nov 18** (her date, 16 Nov) · goes up first, while Video 1 waits
+- ⏸️ **Video 1 voice-over + post** (Yashvi candle-light) — edit done 11 Nov · Yashvi's voice-over not recorded yet (she was not available on the weekend) · **paused** — new date when Yashvi can record (Jayasri, 16 Nov)
 
 ### Orphanage run-up — Jayasri plans and prepares the session (Vamsi, 2026-11-03: she is the event manager)
 
