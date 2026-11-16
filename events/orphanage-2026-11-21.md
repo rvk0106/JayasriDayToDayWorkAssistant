@@ -4,7 +4,7 @@
 > is Vamsi's from end of October; every line is hers to keep or change.
 > Status: ✅ finalised by Jayasri, Tue 3 Nov — open only: question count (3 or 5 — Jayasri's call, 04 Nov) · story (Vamsi prepares, discusses with Jayasri directly) · Srinivas garu's phone ✅ (given directly, 04 Nov).
 
-> ✅ **Date fixed: Fri Nov 27** (Vamsi + Jayasri, 16 Nov). Jayasri tells Srinivas garu and confirms the time. The file name keeps the old date so links do not break.
+> ✅ **Date fixed: Fri Nov 27** (Vamsi + Jayasri, 16 Nov). **Vamsi tells Srinivas garu** (they message on his phone — Jayasri, 16 Nov) and confirms the time. The file name keeps the old date so links do not break.
 
 ## Facts (from the call, 3 Nov)
 - Children: 53 · ages 5–15 · up to Grade 5: ~30 · Grades 6–10: ~23 · room: cellar, children sit on the floor — no tables
