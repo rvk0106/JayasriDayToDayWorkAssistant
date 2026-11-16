@@ -9,7 +9,7 @@
 
 - 🎯 **Dec 2026: 2 schools visited — Sattupalli public/government schools first** (Vamsi, 2026-11-03) — shortlist 🗓️ Nov 14 · 2 finalised 🗓️ Nov 28 · decks ready one week before each visit (`DailyUpdates/Jayasri/goals.md`)
 - 🎯 **Dec 2026: Skoolyng YouTube 500 subscribers min (2000 stretch)** — one video every 2 weeks
-- 🗓️ **Sat 2026-11-21, afternoon: orphanage pilot** — Jayasri plans and prepares the session, Vamsi drives it in the room
+- 🗓️ **Fri 2026-11-27: orphanage pilot** (moved from Sat Nov 21 — Vamsi + Jayasri fixed 27 Nov, 16 Nov; time to confirm with Srinivas garu) — Jayasri plans and prepares the session, Vamsi drives it in the room
 
 ## 🗓️ Her dates
 
@@ -23,7 +23,7 @@
 ### Orphanage run-up — Jayasri plans and prepares the session (Vamsi, 2026-11-03: she is the event manager)
 
 A draft plan already exists (Vamsi's, end of Oct, in `Tutorcross-Experiments`):
-~53 children, Sat 21 Nov afternoon · groups by colour → energiser → story + 2
+~53 children, ~~Sat 21 Nov~~ **Fri 27 Nov** · groups by colour → energiser → story + 2
 questions → warm-up → **Magic Box treasure hunt** (3 questions per team: Grade
 1, Grade 5, Grade 10, combined code) → gifts, chocolates, snacks. No robot.
 
@@ -44,9 +44,9 @@ Vamsi's.
 | Wed Nov 11 | Vamsi's corrections applied, sets final | |
 | Thu Nov 12 | Print decks + path sheets, cut, pouch (55 × 80 slips, white backing); teacher cards, cheat sheet | ✅ printed 12 Nov · 🔄 cut + pouch 13 Nov |
 | Mon Nov 16 | Energiser + warm-up props; gifts, chocolates, snacks for the headcount + spare, bought or ordered | |
-| Wed Nov 18 | Dry run at home with Yashvi: one colour, one path, the box opens; plan corrected | |
-| Fri Nov 20 | Everything packed by activity in run order; reminder message to the contact | |
-| Sat Nov 21 | The pilot — Jayasri runs the table, Vamsi drives the session; `visit-log` the same evening | |
+| ~~Wed Nov 18~~ → Tue Nov 24 | Dry run at home with Yashvi: one colour, one path, the box opens; plan corrected | moved (event now Nov 27) |
+| ~~Fri Nov 20~~ → Thu Nov 26 | Everything packed by activity in run order; reminder message to the contact | moved |
+| ~~Sat Nov 21~~ → **Fri Nov 27** | The pilot — Jayasri runs the table, Vamsi drives the session; `visit-log` the same evening | moved (16 Nov) |
 
 ✅ Orphanage already called and the date confirmed (Vamsi, 2026-11-03).
 
@@ -57,7 +57,7 @@ Vamsi's.
 - **Sat + Sun: leave, every week** (Vamsi, 2026-11-03). Working days are Mon–Fri.
 - **Goa: Thu Nov 5 evening → Mon Nov 9 morning** (bus 18:45 Thu Nov 5 · Agonda stay Nov 6–8 · Sun Nov 8 evening bus back, Hyderabad Mon Nov 9 morning — Vamsi, 2026-11-03). No tasks Thu Nov 5 – Mon Nov 9 (Monday is the arrival day, off).
 - **Tue Nov 10: Jayasri took the day off** (with Mon Nov 9, the arrival day). **Sat Nov 14 + Sun Nov 15 were make-up working days in their place, as Vamsi asked** (Vamsi, 2026-11-16).
-- Sat Nov 21 is the orphanage pilot — the event, not a working day.
+- ~~Sat Nov 21~~ **Fri Nov 27** is the orphanage pilot (moved 16 Nov — Vamsi + Jayasri).
 
 ## Week 1 · Nov 3 – Nov 4 (2 working days before Goa, ~3 h each)
 
@@ -83,10 +83,10 @@ Vamsi's.
 |---|---|---|---|
 | Mon Nov 16 | 🔔 **Remind first (Jayasri asked, 13 Nov): Tutorcross moral-story video** — pick a moral story, prepare the content, her voice-over, visuals, upload to Tutorcross · ~~Shortlist check / 3 more schools~~ ⏭ December — dates checked, talk with Vamsi's father, schools confirmed, then the visits (Jayasri, 14 Nov) · 0c. ⏭ Video 2: edit and upload (rest) · 1. Orphanage: energiser + warm-up props ready; gifts, chocolates, snacks for the headcount + spare listed and ordered (60 min) · 2. Question sets checked against Vamsi's generated cards, fixes noted (45 min) · 3. Call schools that replied, ask for a 15-min meeting (45 min) | run-up · `school-outreach.md` §2 | |
 | Tue Nov 17 | 1. Video 2: finish and upload if not done; post to Instagram (45 min) · 2. Review the Decode Locker as a child would (45 min) · 3. School follow-ups and list update (40 min) | `kit-review.md` · `school-outreach.md` | |
-| Wed Nov 18 | 1. **Orphanage dry run at home with Yashvi** — one colour, one path, the box opens; plan corrected (90 min) · 2. School follow-ups (30 min) · 3. Deck for the grades of any school that fixed a meeting (60 min) | run-up · `deck-prep.md` §2 | |
+| Wed Nov 18 | 1. ⏭ **Orphanage dry run → Tue Nov 24** (event moved to Nov 27) — use this slot for the moral-story upload · — one colour, one path, the box opens; plan corrected (90 min) · 2. School follow-ups (30 min) · 3. Deck for the grades of any school that fixed a meeting (60 min) | run-up · `deck-prep.md` §2 | |
 | Thu Nov 19 | 1. Orphanage: anything the dry run broke — reprint, re-pouch, fix (60 min) · 2. 2 activity-centre fee calls (30 min) · 3. Find 3 more schools (40 min) · 4. School list update (20 min) | run-up | |
-| Fri Nov 20 | 1. **Orphanage: everything packed by activity in run order; reminder message to the contact** (90 min) · 2. Week wrap: school list status, numbers, what was hard (30 min) | run-up | |
-| Sat Nov 21 | 🎪 **Orphanage pilot, afternoon** — Jayasri runs the table, Vamsi drives the session; `visit-log` the same evening | `visit-log` | |
+| Fri Nov 20 | 1. ⏭ **Packing + reminder → Thu Nov 26** (event moved to Nov 27) (90 min) · 2. Week wrap: school list status, numbers, what was hard (30 min) | run-up | |
+| ~~Sat Nov 21~~ | ⏭ moved to **Fri Nov 27** · 🎪 **Orphanage pilot, afternoon** — Jayasri runs the table, Vamsi drives the session; `visit-log` the same evening | `visit-log` | |
 
 ## Week 4 · Nov 23 – Nov 27 (outline)
 
