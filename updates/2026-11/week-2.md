@@ -30,7 +30,7 @@
 - Weekend: Video 1 voice-over by Yashvi (Sat–Sun), then post on Tutorcross
 - Blockers ⛔: none
 
-## 📅 2026-11-14 (Saturday — leave day, she chose to work)
+## 📅 2026-11-14 (Saturday — make-up working day for Mon/Tue off, as Vamsi asked) — ✏️ corrected 2026-11-16 (Vamsi); first recorded as "leave day, she chose to work"
 
 ### 🌙 Day summary
 - Worked 09:52–10:12
@@ -39,3 +39,8 @@
 - This evening: Video 1 voice-over with Yashvi, then post on Tutorcross
 - Blockers ⛔: none
 - Monday: 🔔 moral-story video reminder · orphanage date from the call · Video 2
+
+## 📅 2026-11-15 (Sunday — make-up working day, as Vamsi asked)
+
+### 🌙 Day summary
+- No session recorded (added 2026-11-16 from Vamsi's correction; the day had been treated as leave)

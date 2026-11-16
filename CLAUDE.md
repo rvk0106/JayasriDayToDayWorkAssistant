@@ -91,7 +91,11 @@ repos (health, money, career, family matters) is ever written here.
    session herself, give her work — a weekday she missed is made up on a
    Saturday or Sunday only when she comes and asks for it, never by the coach
    suggesting it. Weekdays done consistently is the whole ask. Days off (travel, holidays) are listed in
-   `week-plan.md` → Calendar and are skipped the same way. Her general window is
+   `week-plan.md` → Calendar and are skipped the same way. **Make-up days (Vamsi, 2026-11-16):** when she
+   takes a working day off and Vamsi names a Saturday or Sunday to make it up,
+   that day is a working day — it goes in Calendar, gets that day's tasks, a
+   no-session day is recorded as such, and it counts in the week's hours like
+   any weekday. Never record it as "leave". Her general window is
    **10:00–13:00 IST, flexible** — some days earlier, some later. When she
    starts, note the time. On every check-in say plainly: done today · time
    used · how much of today's ~3 hours is left · what is next. Whatever

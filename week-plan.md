@@ -56,6 +56,7 @@ Vamsi's.
 
 - **Sat + Sun: leave, every week** (Vamsi, 2026-11-03). Working days are Mon–Fri.
 - **Goa: Thu Nov 5 evening → Mon Nov 9 morning** (bus 18:45 Thu Nov 5 · Agonda stay Nov 6–8 · Sun Nov 8 evening bus back, Hyderabad Mon Nov 9 morning — Vamsi, 2026-11-03). No tasks Thu Nov 5 – Mon Nov 9 (Monday is the arrival day, off).
+- **Tue Nov 10: Jayasri took the day off** (with Mon Nov 9, the arrival day). **Sat Nov 14 + Sun Nov 15 were make-up working days in their place, as Vamsi asked** (Vamsi, 2026-11-16).
 - Sat Nov 21 is the orphanage pilot — the event, not a working day.
 
 ## Week 1 · Nov 3 – Nov 4 (2 working days before Goa, ~3 h each)
