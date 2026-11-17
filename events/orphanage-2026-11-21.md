@@ -78,7 +78,7 @@ Printable: `events/print/orphanage-hunt-cards.pdf` — in the Magic Box deck sty
 - [ ] 5 hard boards / chart sheets to write on (children sit on the floor — no tables)
 - [ ] Magic Box with the code set (Vamsi)
 
-**Gifts and food** (buy/order by Sat Nov 14)
+**Gifts and food** — Jayasri buys them at a store outside, not online (17 Nov). Chocolates, chikki, plates any day before; rice, fruit, water on Thu Nov 26
 - [ ] 12 small chocolate packets — inside the box
 - [ ] 60 chikki packets — for every child
 - [ ] Fruit for ~60: guava / apple / banana / watermelon
