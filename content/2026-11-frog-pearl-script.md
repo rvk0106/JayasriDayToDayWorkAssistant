@@ -3,7 +3,7 @@
 > Improved version written by the coach for Jayasri, 17 Nov 2026, from the Telugu magazine story she shared.
 > Narration in Telugu (her voice-over). Changes from the original: shorter sentences for small children,
 > a clear "clever plan" moment, a happy ending where the two friends stay safe, and the moral in Telugu
-> and English (her format from the Birbal video). Visuals: our own, made in Canva. ~8 seconds per scene.
+> and English (her format from the Birbal video). Visuals: our own, made in Canva — 14-slide design generated 17 Nov: https://canva.link/4acko15b3nhcyi1 (no subtitles; moral in Telugu + bracketed English). ~8 seconds per scene.
 
 | # | Visual (Canva) | Narration (Telugu) |
 |---|---|---|
