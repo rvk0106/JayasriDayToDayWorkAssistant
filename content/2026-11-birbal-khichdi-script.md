@@ -3,7 +3,7 @@
 > Script by the coach with Jayasri, 16 Nov 2026; shortened to ~1:30 at her request the same day.
 > Narration in Telugu (her voice-over). Source: the Telugu magazine story she photographed; the
 > ending is the well-known "Birbal's khichdi" ending. Upload on Tutorcross by Wed Nov 18 (her date).
-> Visuals: our own, made in Canva. Rough timing ≈ 8–10 seconds per scene.
+> Visuals: our own, made in Canva — 12-scene design generated 17 Nov: https://canva.link/x0cjtj3ksejpyb4 (Jayasri adds the voice-over and exports MP4). Rough timing ≈ 8–10 seconds per scene.
 
 | # | Visual (Canva) | Narration (Telugu) |
 |---|---|---|
