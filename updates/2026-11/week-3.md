@@ -21,3 +21,14 @@
 - Orphanage (Fri Nov 27): gifts to be bought at a store — shopping day to set; rice, fruit, water on Thu Nov 26
 - Blockers ⛔: none
 - Tomorrow: Birbal video — voice-over into Canva, MP4, upload to Tutorcross
+
+## 📅 2026-11-18 (Wednesday)
+
+### 🌙 Day summary
+- Worked ~3 h (her count): 09:45–10:27 (incl. ~1 h of other work logged in the diary), 11:50–13:30
+- Done: 🎉 first story video "బీర్బల్ తెలివి" — her voice-over, Canva scenes, uploaded to Tutorcross on her date
+- Learned: a phone recording sent over WhatsApp arrives as .mp4 video — send it as a Document (or record in Canva) so it lands as audio
+- In progress: "కప్ప – ముత్యం" voice-over (recording now) → upload Fri Nov 20 (her date)
+- Dates set: gifts shopping Mon Nov 23 · dry run Tue Nov 24 · packing + fresh items Thu Nov 26 · orphanage Fri Nov 27
+- Blockers ⛔: none
+- Tomorrow: కప్ప – ముత్యం — voice-over into Canva, animate, MP4
