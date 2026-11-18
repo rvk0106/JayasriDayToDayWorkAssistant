@@ -17,7 +17,7 @@
 > task has none, writes it here, and reminds her at every session start until
 > it is ✅ (Vamsi, 2026-11-04). `scripts/today.sh` prints this section.
 
-- ❓ **Orphanage gifts shopping** (chocolates ×12, chikki ×60, paper plates etc. — at a store) — **ask her which day** · rice, fruit, water on Thu Nov 26
+- 🗓️ **Orphanage gifts shopping** (chocolates ×12, chikki ×60, paper plates etc. — at a store) — **Mon Nov 23** (her date, 18 Nov) · rice, fruit, water on Thu Nov 26
 - ✅ **Tutorcross moral-story video** — "బీర్బల్ తెలివి" uploaded to Tutorcross **Wed Nov 18** (on her date) · next: "కప్ప – ముత్యం" (script + slides ready)
 - 🗓️ **కప్ప – ముత్యం story video** — her voice-over (record as audio: WhatsApp → Document, or Canva Record) · upload to Tutorcross **Fri Nov 20** (her date, 18 Nov)
 - ⏸️ **Video 1 voice-over + post** (Yashvi candle-light) — edit done 11 Nov · Yashvi's voice-over not recorded yet (she was not available on the weekend) · **paused** — new date when Yashvi can record (Jayasri, 16 Nov)
