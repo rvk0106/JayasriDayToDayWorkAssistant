@@ -32,3 +32,17 @@
 - Dates set: gifts shopping Mon Nov 23 · dry run Tue Nov 24 · packing + fresh items Thu Nov 26 · orphanage Fri Nov 27
 - Blockers ⛔: none
 - Tomorrow: కప్ప – ముత్యం — voice-over into Canva, animate, MP4
+
+## 📅 2026-11-19 (Thursday)
+
+### 🌙 Day summary
+- Worked ~3 h (her count): from 11:41
+- Done: "కప్ప – ముత్యం" — voice-over recorded and the video finished in Canva, MP4 ready
+- Started: research on 2 Telugu kids-story YouTube channels (titles, thumbnails, length) — she explains her notes next working day
+- Carried: Magic Box review (at home) · activity-centre fee calls — after she discusses them with Vamsi
+- Blockers ⛔: none
+
+## 📅 2026-11-20 (Friday)
+
+### 🌙 Day summary
+- 🏖️ Day off — Yashvi's school annual day. Made up on a day next week (agreed with Vamsi; day to confirm).

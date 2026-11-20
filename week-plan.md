@@ -19,7 +19,7 @@
 
 - 🗓️ **Orphanage gifts shopping** (chocolates ×12, chikki ×60, paper plates etc. — at a store) — **Mon Nov 23** (her date, 18 Nov) · rice, fruit, water on Thu Nov 26
 - ✅ **Tutorcross moral-story video** — "బీర్బల్ తెలివి" uploaded to Tutorcross **Wed Nov 18** (on her date) · next: "కప్ప – ముత్యం" (script + slides ready)
-- 🗓️ **కప్ప – ముత్యం story video** — her voice-over (record as audio: WhatsApp → Document, or Canva Record) · upload to Tutorcross **Fri Nov 20** (her date, 18 Nov)
+- 🗓️ **కప్ప – ముత్యం story video** — MP4 ready (19 Nov) · upload to Tutorcross was set for **Fri Nov 20**, her day off → upload on the next working day unless she scheduled it on YouTube (ask)
 - ⏸️ **Video 1 voice-over + post** (Yashvi candle-light) — edit done 11 Nov · Yashvi's voice-over not recorded yet (she was not available on the weekend) · **paused** — new date when Yashvi can record (Jayasri, 16 Nov)
 
 ### Orphanage run-up — Jayasri plans and prepares the session (Vamsi, 2026-11-03: she is the event manager)
@@ -60,6 +60,7 @@ Vamsi's.
 - **Goa: Thu Nov 5 evening → Mon Nov 9 morning** (bus 18:45 Thu Nov 5 · Agonda stay Nov 6–8 · Sun Nov 8 evening bus back, Hyderabad Mon Nov 9 morning — Vamsi, 2026-11-03). No tasks Thu Nov 5 – Mon Nov 9 (Monday is the arrival day, off).
 - **Tue Nov 10: Jayasri took the day off** (with Mon Nov 9, the arrival day). **Sat Nov 14 + Sun Nov 15 were make-up working days in their place, as Vamsi asked** (Vamsi, 2026-11-16).
 - ~~Sat Nov 21~~ **Fri Nov 27** is the orphanage pilot (moved 16 Nov — Vamsi + Jayasri).
+- **Fri Nov 20: day off — Yashvi's school annual day.** Jayasri makes it up on a day next week (agreed with Vamsi; the day to confirm) (Jayasri, 20 Nov).
 
 ## Week 1 · Nov 3 – Nov 4 (2 working days before Goa, ~3 h each)
 
@@ -86,8 +87,8 @@ Vamsi's.
 | Mon Nov 16 | 🔔 **Remind first (Jayasri asked, 13 Nov): Tutorcross moral-story video** — pick a moral story, prepare the content, her voice-over, visuals, upload to Tutorcross · ~~Shortlist check / 3 more schools~~ ⏭ December — dates checked, talk with Vamsi's father, schools confirmed, then the visits (Jayasri, 14 Nov) · 0c. ⏭ Video 2: edit and upload (rest) · 1. Orphanage: energiser + warm-up props ready; gifts, chocolates, snacks for the headcount + spare listed and ordered (60 min) · 2. Question sets checked against Vamsi's generated cards, fixes noted (45 min) · 3. Call schools that replied, ask for a 15-min meeting (45 min) | run-up · `school-outreach.md` §2 | 🔔 ✅ story video started — Birbal script final, voice-over in progress (upload by Nov 18) · orphanage → Fri Nov 27 · 0c, 1 ⏭ Tue Nov 17 · 2, 3 dropped (paper cards; schools in December) |
 | Tue Nov 17 | 1. Video 2: finish and upload if not done; post to Instagram (45 min) · 2. Review the Decode Locker as a child would (45 min) · 3. School follow-ups and list update (40 min) | `kit-review.md` · `school-outreach.md` | ✅ Birbal video slides finished in Canva (voice-over this evening, upload Wed Nov 18) · ✅ next story ready: కప్ప – ముత్యం script + 14 Canva slides · gifts list made (store, date to set) · Decode Locker review + school follow-ups ⏭ |
 | Wed Nov 18 | 1. ⏭ **Orphanage dry run → Tue Nov 24** (event moved to Nov 27) — use this slot for the moral-story upload · — one colour, one path, the box opens; plan corrected (90 min) · 2. School follow-ups (30 min) · 3. Deck for the grades of any school that fixed a meeting (60 min) | run-up · `deck-prep.md` §2 | ✅ Birbal story video uploaded to Tutorcross · dry run ⏭ Tue Nov 24 · school items ⏭ December |
-| Thu Nov 19 | 1. Orphanage: anything the dry run broke — reprint, re-pouch, fix (60 min) · 2. 2 activity-centre fee calls (30 min) · 3. Find 3 more schools (40 min) · 4. School list update (20 min) | run-up | |
-| Fri Nov 20 | 1. ⏭ **Packing + reminder → Thu Nov 26** (event moved to Nov 27) (90 min) · 2. Week wrap: school list status, numbers, what was hard (30 min) | run-up | |
+| Thu Nov 19 | 1. Orphanage: anything the dry run broke — reprint, re-pouch, fix (60 min) · 2. 2 activity-centre fee calls (30 min) · 3. Find 3 more schools (40 min) · 4. School list update (20 min) | run-up | ✅ ~3 h (her count): కప్ప – ముత్యం voice-over + MP4 ready · research on 2 Telugu kids-story channels (her notes next working day) · Magic Box review ⏭ at home · activity-centre calls ⏭ after she discusses with Vamsi · dry-run fixes ⏭ Nov 24 · schools ⏭ December |
+| Fri Nov 20 | 1. ⏭ **Packing + reminder → Thu Nov 26** (event moved to Nov 27) (90 min) · 2. Week wrap: school list status, numbers, what was hard (30 min) | run-up | 🏖️ day off (Yashvi's school annual day) — made up next week |
 | ~~Sat Nov 21~~ | ⏭ moved to **Fri Nov 27** · 🎪 **Orphanage pilot, afternoon** — Jayasri runs the table, Vamsi drives the session; `visit-log` the same evening | `visit-log` | |
 
 ## Week 4 · Nov 23 – Nov 27 (outline)
