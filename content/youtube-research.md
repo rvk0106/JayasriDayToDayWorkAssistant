@@ -67,7 +67,7 @@
 - 4+ years to reach 78.7K
 
 ## Ideas Jayasri raised
-- **Stable characters for Tutorcross stories, like PunToon Kids** (23 Nov) — **Jayasri's choice:** a family in a village — **amma, nanna and their little girl (papa)**, her **school friends**, and **nature** around the village; new stories are created around them (not a grandmother narrator). **Final (Jayasri, 23 Nov): the girl is చిట్టి (Chitti), the village is ఊటుకూరు (Vutukuru)** — series working name "ఊటుకూరు చిట్టి కథలు" — full cast in `chitti-story-world.md`; friends/pet names and looks still to decide; then a character sheet in Canva so every story reuses the same characters. To share with Vamsi.
+- **Stable characters for Tutorcross stories, like PunToon Kids** (23 Nov) — **Jayasri's choice:** a family in a village — **amma, nanna and their little girl (papa)**, her **school friends**, and **nature** around the village; new stories are created around them (not a grandmother narrator). **Final (Jayasri, 23 Nov): the girl is చిట్టి (Chitti), the village is ఊటుకూరు (Vutukuru)** — series title "చిట్టి చెప్పిన నీతి" (final, 23 Nov) — full cast in `chitti-story-world.md`; friends/pet names and looks still to decide; then a character sheet in Canva so every story reuses the same characters. To share with Vamsi.
 
 ## Improvements for Tutorcross
 _(to write when Jayasri asks, after her research)_

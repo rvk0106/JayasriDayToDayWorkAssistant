@@ -1,4 +1,4 @@
-# ఊటుకూరు చిట్టి కథలు — the Tutorcross story world
+# చిట్టి చెప్పిన నీతి — the Tutorcross story world
 
 > Decided by Jayasri, 23 Nov 2026, after her YouTube research (`youtube-research.md` — PunToon Kids keeps the
 > same characters in every story). Every new Tutorcross story is set here, with these characters. To share with Vamsi.
@@ -14,6 +14,8 @@
 | 🐕 Pet | **టింకు (Tinku)** | Chitti's puppy, in every story |
 | 🏡 Village | **ఊటుకూరు (Vutukuru)** — ఊట = a spring of water 💧 | fields, a pond, trees, animals and birds, the village school |
 
-**Story pattern:** a small event at home, at school or in nature → the children solve it → a **నీతి** at the end, in Telugu + `Moral: (English)`.
+**Series title (Jayasri, 23 Nov): చిట్టి చెప్పిన నీతి** — title tail on every video: `| చిట్టి చెప్పిన నీతి | Telugu Moral Stories | Tutorcross`. Chitti says the moral at the end of each story.
+
+**Story pattern:** a small event at home, at school or in nature → the children solve it → **Chitti says the నీతి** at the end, in Telugu + `Moral: (English)`.
 
 **Next:** Canva character sheet (one fixed look per character, reused in every story) · first Chitti story · share with Vamsi.
