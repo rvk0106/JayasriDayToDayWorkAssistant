@@ -19,7 +19,7 @@
 
 - 🗓️ **Orphanage gifts shopping** (chocolates ×12, chikki ×60, paper plates etc. — at a store) — **Mon Nov 23** (her date, 18 Nov) · rice, fruit, water on Thu Nov 26
 - ✅ **Tutorcross moral-story video** — "బీర్బల్ తెలివి" uploaded to Tutorcross **Wed Nov 18** (on her date) · next: "కప్ప – ముత్యం" (script + slides ready)
-- 🗓️ **కప్ప – ముత్యం story video** — MP4 ready (19 Nov) · upload to Tutorcross was set for **Fri Nov 20**, her day off → upload on the next working day unless she scheduled it on YouTube (ask)
+- 🗓️ **కప్ప – ముత్యం story video** — MP4 ready (19 Nov) · upload to Tutorcross **Tue Nov 24** (her date, moved 23 Nov — she is out today)
 - ⏸️ **Video 1 voice-over + post** (Yashvi candle-light) — edit done 11 Nov · Yashvi's voice-over not recorded yet (she was not available on the weekend) · **paused** — new date when Yashvi can record (Jayasri, 16 Nov)
 
 ### Orphanage run-up — Jayasri plans and prepares the session (Vamsi, 2026-11-03: she is the event manager)
