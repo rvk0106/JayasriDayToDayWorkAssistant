@@ -15,6 +15,7 @@
 ## 2. Chinnari Kathalu TV (@ChinnariKathalu_TV) — a new channel, seen 23 Nov 2026
 - **Size:** 162 subscribers · 52 videos · 185,600 total views · started Aug 2, 2026 (~4 months → ~3 videos a week)
 - **Style:** bright 3D-look animation (AI-generated style) · "తెలుగు చిన్నారుల కోసం 3D Animated కథలు" · "New videos every week"
+- **Voice:** AI-generated voice-over (Jayasri, 23 Nov)
 - **Mix:** moral stories (2:30–3:45 min — close to our length), Telugu rhymes, an ABC song, and many Shorts
 - **Titles:** a curiosity hook + keyword tail — e.g. `కొండను ఢీకొట్టిన గొర్రెపోతు! చివరికి ఏమైందో తెలుసా? | Moral Stories for Kids | Telugu Stories | Chinnari Kathalu`
 - **Thumbnails:** a question or exclamation in big yellow/white outlined Telugu letters (`ఆఖరి గింజను ఏం చేసింది?`) over one bright scene
@@ -26,3 +27,4 @@
 2. Thumbnail = the best scene + a big outlined Telugu title, ideally a question
 3. Try a Short (30–60 s) cut from each story
 4. Later: English voice-over on the same slides (Koo Koo TV dubs into many languages)
+5. Voice: Chinnari Kathalu uses an AI voice and gets few views per video; our own human Telugu voice is a difference worth keeping — AI voice only as an option for speed or a second language (Vamsi's call)
