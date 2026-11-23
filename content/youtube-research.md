@@ -36,5 +36,22 @@
 - Only 162 subscribers after 52 videos
 - AI-style visuals look generic, like other new channels
 
+## 3. "learnmoreeasy" (name from the video watermark — channel name and size to confirm)
+**Facts:** Telugu kids' learning channel · tabs: Videos, Shorts, **Courses**, Playlists, Posts · 3D-look animation
+
+**✅ Positives**
+- **Science "why/how" Shorts** in Telugu with a curious child: magnets (`మాగ్నెట్ వస్తువులను ఎలా ఆకర్షిస్తుంది?`), rainbow, floating/sinking in water, moon phases, memory — 85–296 views each
+- **Telugu alphabet videos do very well:** `తెలుగు అక్షరమాల అ ఆ ఇ ఈ` 56K views (7 days) · `తెలుగు వర్ణమాల` 21K
+- **Festival / occasion rhymes ride the date:** Children's Day rhyme 10K (11 days), Deepavali rhyme 1.1K
+- Titles in Telugu + English (`… ఎలా ఆకర్షిస్తుంది? | How Does …`)
+- Thumbnails: huge colourful Telugu letters / words, very readable
+- Has a **Courses** tab — content organised as learning, not only entertainment
+
+**❌ Negatives**
+- Shorts views are low (85–296) compared with the long videos
+- Good-habits video (`పిల్లలు తప్పక నేర్చుకోవాల్సిన 10 ముఖ్యమైన మంచి అలవాట్లు`) only 69 views — not every topic works
+- AI-style 3D visuals look like the other new channels
+- Mixed topics (science, alphabet, rhymes, habits) — no single clear identity
+
 ## Improvements for Tutorcross
 _(to write when Jayasri asks, after her research)_
