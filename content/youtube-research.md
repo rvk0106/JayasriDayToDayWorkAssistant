@@ -53,5 +53,21 @@
 - AI-style 3D visuals look like the other new channels
 - Mixed topics (science, alphabet, rhymes, habits) — no single clear identity
 
+## 4. PunToon Kids – Telugu (@puntoonkidstelugu)
+**Facts:** 78.7K subscribers · 634 videos · 52.3M total views · since Jul 1, 2021 (~2.5 videos a week) · part of a multi-language network · also has a kids' games app
+
+**✅ Positives**
+- **Same characters in every story** — children come back for the characters (Jayasri, 23 Nov)
+- 52M views — strong average per video (~82K)
+- Aims to "inspire and teach young kids" — learning + fun, close to Tutorcross
+- Brand beyond YouTube (games app) — the characters carry over
+
+**❌ Negatives**
+- Professional studio team behind it (business enquiries, multi-language network) — hard to match in volume
+- 4+ years to reach 78.7K
+
+## Ideas Jayasri raised
+- **Stable characters for Tutorcross stories, like PunToon Kids** (23 Nov) — coach's suggestion recorded in chat; to discuss with Vamsi
+
 ## Improvements for Tutorcross
 _(to write when Jayasri asks, after her research)_
