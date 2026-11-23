@@ -67,7 +67,7 @@
 - 4+ years to reach 78.7K
 
 ## Ideas Jayasri raised
-- **Stable characters for Tutorcross stories, like PunToon Kids** (23 Nov) — **Jayasri's choice:** a family in a village — **amma, nanna and their little girl (papa)**, her **school friends**, and **nature** around the village; new stories are created around them (not a grandmother narrator). Names and looks to decide; then a character sheet in Canva so every story reuses the same characters. To share with Vamsi.
+- **Stable characters for Tutorcross stories, like PunToon Kids** (23 Nov) — **Jayasri's choice:** a family in a village — **amma, nanna and their little girl (papa)**, her **school friends**, and **nature** around the village; new stories are created around them (not a grandmother narrator). Names shortlisted by Jayasri (23 Nov): girl **వెన్నెల or చిట్టి**, village **రామవరం or ఊటుకూరు** — final pick pending; friends/pet names and looks still to decide; then a character sheet in Canva so every story reuses the same characters. To share with Vamsi.
 
 ## Improvements for Tutorcross
 _(to write when Jayasri asks, after her research)_
