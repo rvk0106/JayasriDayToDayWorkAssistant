@@ -1,30 +1,40 @@
 # YouTube research — Telugu kids-story channels
 
-> Jayasri's research for the Tutorcross story series (started 19 Nov, notes 23 Nov). One section per channel.
+> Jayasri's research for the Tutorcross story series (started 19 Nov, notes 23 Nov).
+> Format she asked for (23 Nov): she feeds what she sees; the coach records **positives and negatives** per
+> channel. Improvements for Tutorcross are written only when she asks for them at the end.
 
-## 1. Koo Koo TV Telugu (@KooKooTVTelugu) — seen 23 Nov 2026
-- **Size:** 2.55M subscribers · 1,307 videos · on YouTube since Dec 15, 2017 (~9 years → ~145 videos a year, about 3 a week)
-- **About:** "entertaining stories … learn lessons of life … colourful animation", new videos every week; the same stories now dubbed into ~18 languages (Hindi, Tamil, English, Spanish …)
-- **Cadence:** a new video about every 2–3 days (Jayasri)
-- **Length:** long — 8–18 minutes
-- **Views:** 5.8K – 151K per video in the last 2 weeks
-- **Titles:** `<story name in Telugu> | New Telugu Stories | తెలుగు కథలు | Telugu Kathalu` — the same keyword tail on every video, Telugu + English
-- **Thumbnails:** one bright full-scene cartoon, the story name in big Telugu letters (orange/yellow with a dark outline) across the top, expressive faces, nothing else
-- **Ideas for Tutorcross** (to discuss): use one fixed title tail on every story (e.g. `| Telugu Moral Stories | తెలుగు నీతి కథలు | Tutorcross`) · thumbnail = slide-1 scene + big outlined Telugu title · our videos are ~1:30, theirs 8–18 min — consider longer stories later, or post ours as Shorts too · their growth came from many videos over years and one animation dubbed into many languages — our Canva slides could get an English voice-over too (same visuals, second video)
+## 1. Koo Koo TV Telugu (@KooKooTVTelugu)
+**Facts:** 2.55M subscribers · 1,307 videos · since Dec 15, 2017 (~3 videos a week) · stories dubbed into ~18 languages · "lessons of life through stories", new videos every week
 
-## 2. Chinnari Kathalu TV (@ChinnariKathalu_TV) — a new channel, seen 23 Nov 2026
-- **Size:** 162 subscribers · 52 videos · 185,600 total views · started Aug 2, 2026 (~4 months → ~3 videos a week)
-- **Style:** bright 3D-look animation (AI-generated style) · "తెలుగు చిన్నారుల కోసం 3D Animated కథలు" · "New videos every week"
-- **Voice:** AI-generated voice-over (Jayasri, 23 Nov)
-- **Mix:** moral stories (2:30–3:45 min — close to our length), Telugu rhymes, an ABC song, and many Shorts
-- **Titles:** a curiosity hook + keyword tail — e.g. `కొండను ఢీకొట్టిన గొర్రెపోతు! చివరికి ఏమైందో తెలుసా? | Moral Stories for Kids | Telugu Stories | Chinnari Kathalu`
-- **Thumbnails:** a question or exclamation in big yellow/white outlined Telugu letters (`ఆఖరి గింజను ఏం చేసింది?`) over one bright scene
-- **Views:** recent videos only 0–50 views each, though the channel total is 185K — a few videos or Shorts must have carried it
-- **Ideas for Tutorcross** (to discuss): this is the channel closest to us in size and length — a useful benchmark · curiosity titles and question thumbnails (e.g. `ముత్యం ఇచ్చిన కప్ప… చివరికి ఏమైందో తెలుసా?`) · Shorts alongside the full story · posting often alone did not bring views here — the hook in the title/thumbnail matters
+**✅ Positives**
+- Very regular — a new video every 2–3 days, for ~9 years
+- Long videos (8–18 min) — more watch time per viewer
+- Fixed title tail on every video: `<story> | New Telugu Stories | తెలుగు కథలు | Telugu Kathalu` (Telugu + English keywords)
+- Thumbnails: one bright scene + big outlined Telugu title — clear at a glance
+- Good views: 5.8K – 151K per video in the last 2 weeks
+- One animation reused in many languages — more reach from the same work
 
-## Takeaways so far (Jayasri + coach, 23 Nov)
-1. One fixed title tail on every story, e.g. `| Telugu Moral Stories | తెలుగు నీతి కథలు | Tutorcross`
-2. Thumbnail = the best scene + a big outlined Telugu title, ideally a question
-3. Try a Short (30–60 s) cut from each story
-4. Later: English voice-over on the same slides (Koo Koo TV dubs into many languages)
-5. Voice: Chinnari Kathalu uses an AI voice and gets few views per video; our own human Telugu voice is a difference worth keeping — AI voice only as an option for speed or a second language (Vamsi's call)
+**❌ Negatives**
+- Long videos need a big animation team — heavy to copy
+- Stories are entertainment-first; the moral is not always the focus in the titles
+
+## 2. Chinnari Kathalu TV (@ChinnariKathalu_TV) — new channel
+**Facts:** 162 subscribers · 52 videos · 185,600 total views · since Aug 2, 2026 (~3 videos a week) · "3D Animated కథలు", new videos every week
+
+**✅ Positives**
+- Fast start — 52 videos in 4 months
+- Short stories (2:30–3:45 min), close to our length
+- Mix of formats: moral stories, rhymes, ABC song, Shorts
+- Curiosity titles: `కొండను ఢీకొట్టిన గొర్రెపోతు! చివరికి ఏమైందో తెలుసా? | Moral Stories for Kids | …`
+- Thumbnails ask a question in big outlined Telugu (`ఆఖరి గింజను ఏం చేసింది?`)
+- Bright 3D-look visuals
+
+**❌ Negatives**
+- AI-generated voice (Jayasri, 23 Nov) — sounds like many other channels
+- Very low views on new videos (0–50 each) despite posting often
+- Only 162 subscribers after 52 videos
+- AI-style visuals look generic, like other new channels
+
+## Improvements for Tutorcross
+_(to write when Jayasri asks, after her research)_
