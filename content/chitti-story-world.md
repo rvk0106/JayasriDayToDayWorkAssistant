@@ -18,4 +18,7 @@
 
 **Story pattern:** a small event at home, at school or in nature → the children solve it → **Chitti says the నీతి** at the end, in Telugu + `Moral: (English)`.
 
-**Next:** Canva character sheet (one fixed look per character, reused in every story) · first Chitti story · share with Vamsi.
+**Character sheet (Canva, 23 Nov):** https://canva.link/y9b6k2dafesz1qi — 7 pages: cover, Chitti (front, side, 3 faces), Tinku (sitting, running), Amma & Nanna, school friends, Vutukuru village, everyone together. As drawn: Chitti — yellow blouse, red skirt, two plaits with red bows · Tinku — cream puppy with brown ears and patches, red collar with a gold bell · Kamala — orange saree · Ravi — white shirt and dhoti, red sash, a sickle · Bujji — yellow shirt, brown shorts · Gowri — green langa · Suri — cream shirt, blue shorts. Reuse these images as the reference for every story.
+Known gaps in the sheet: Gowri has no glasses (asked for), and the "everyone together" page shows 7 children, not the family and Tinku.
+
+**Next:** first Chitti story · share with Vamsi.
