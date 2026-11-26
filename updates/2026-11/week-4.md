@@ -12,7 +12,7 @@
 ## 📅 2026-11-24 (Tuesday)
 
 ### 🌙 Day summary
-- Worked (her report, 26 Nov; hours not given): searched for new stories · helped Vamsi with his work · tested the Magic Box — needs an accurate re-test with Vamsi
+- Worked ~3 h (her report, 26 Nov): searched for new stories · helped Vamsi with his work · tested the Magic Box — needs an accurate re-test with Vamsi
 - Not done: కప్ప – ముత్యం upload (moved to Fri Nov 27)
 
 ## 📅 2026-11-25 (Wednesday)
