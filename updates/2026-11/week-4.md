@@ -13,3 +13,11 @@
 
 ### 🌙 Day summary
 - No session recorded (dry run + కప్ప – ముత్యం upload were planned — status to ask on 25 Nov)
+
+## 📅 2026-11-25 (Wednesday)
+
+### 🌙 Day summary
+- Worked ~3 h (her count): from 09:53 — planning discussion with Vamsi
+- Decided: ❌ orphanage session (Fri Nov 27) cancelled → first session straight at a **Sattupalli school, mid-December**
+- Open with Vamsi: tell Srinivas garu · which school and date (after talking with his father)
+- Still open from before: కప్ప – ముత్యం upload (MP4 ready)

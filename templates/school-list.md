@@ -4,7 +4,7 @@
 
 | # | School | Area (Hyderabad / Khammam / Sattupalli) | Grades | Contact (name · phone) | How we know them | Status | Last touch | Next step · date | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| 0 | (orphanage pilot) | | | | Vamsi | 📅 Fri 2026-11-27 (moved from Nov 21, 16 Nov) | 2026-11-03 called, confirmed · new date to be told to Srinivas garu 16 Nov | reminder message Thu Nov 26 | ~53 children; material prep in week-plan |
+| 0 | (orphanage pilot) | | | | Vamsi | ❌ cancelled 26 Nov (was Fri 2026-11-27) | 2026-11-03 called, confirmed · new date to be told to Srinivas garu 16 Nov | reminder message Thu Nov 26 | ~53 children; material prep in week-plan |
 | 1 | High School, Gangaram | Sattupalli | likely 6–10 (high school) — to confirm | via Vamsi's father (retired teacher, good relations with these schools) · phone: through him | Vamsi's father | 📝 | 2026-11-03 listed | in person with Vamsi's father, December (no message — Jayasri, 04 Nov) | December shortlist (Sattupalli first) |
 | 2 | Girls High School, Sattupalli | Sattupalli | likely 6–10 (high school) — to confirm | via Vamsi's father (retired teacher, good relations with these schools) · phone: through him | Vamsi's father | 📝 | 2026-11-03 listed | in person with Vamsi's father, December (no message — Jayasri, 04 Nov) | December shortlist (Sattupalli first) |
 | 3 | Govt School, NTR Nagar | Sattupalli | to confirm | via Vamsi's father (retired teacher, good relations with these schools) · phone: through him | Vamsi's father | 📝 | 2026-11-03 listed | in person with Vamsi's father, December (no message — Jayasri, 04 Nov) | December shortlist (Sattupalli first) |

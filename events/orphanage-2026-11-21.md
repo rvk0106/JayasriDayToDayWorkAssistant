@@ -1,4 +1,8 @@
-# Orphanage session — **Fri 27 Nov 2026** (moved from Sat 21 Nov)
+# Orphanage session — ❌ CANCELLED (26 Nov 2026)
+
+> ❌ **Cancelled** (Vamsi + Jayasri, discussed 25 Nov): no orphanage session. The first session will be at a **Sattupalli school, mid-December**. This plan — teams, paper hunt with the box at the end, key 84, the printed cards — is the starting point for that school session.
+
+## (history) Orphanage session — Fri 27 Nov 2026 (moved from Sat 21 Nov)
 
 > Jayasri's event plan, finalised with the coach on Tue 3 Nov. The draft below
 > is Vamsi's from end of October; every line is hers to keep or change.

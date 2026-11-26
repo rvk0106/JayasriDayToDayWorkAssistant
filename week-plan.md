@@ -9,7 +9,7 @@
 
 - 🎯 **Dec 2026: 2 schools visited — Sattupalli public/government schools first** (Vamsi, 2026-11-03) — shortlist 🗓️ Nov 14 · 2 finalised 🗓️ Nov 28 · decks ready one week before each visit (`DailyUpdates/Jayasri/goals.md`)
 - 🎯 **Dec 2026: Skoolyng YouTube 500 subscribers min (2000 stretch)** — one video every 2 weeks
-- 🗓️ **Fri 2026-11-27: orphanage pilot** (moved from Sat Nov 21 — Vamsi + Jayasri fixed 27 Nov, 16 Nov; time to confirm with Srinivas garu) — Jayasri plans and prepares the session, Vamsi drives it in the room
+- ❌ ~~**Fri 2026-11-27: orphanage pilot**~~ cancelled 26 Nov → 🎯 **mid-December: first session at a Sattupalli school** (Vamsi + Jayasri) (moved from Sat Nov 21 — Vamsi + Jayasri fixed 27 Nov, 16 Nov; time to confirm with Srinivas garu) — Jayasri plans and prepares the session, Vamsi drives it in the room
 
 ## 🗓️ Her dates
 
@@ -17,12 +17,14 @@
 > task has none, writes it here, and reminds her at every session start until
 > it is ✅ (Vamsi, 2026-11-04). `scripts/today.sh` prints this section.
 
-- 🗓️ **Orphanage gifts shopping** (chocolates ×12, chikki ×60, paper plates etc. — at a store) — **Mon Nov 23** (her date, 18 Nov) · rice, fruit, water on Thu Nov 26
+- ❌ ~~Orphanage gifts shopping~~ — not needed, orphanage session cancelled (26 Nov)
 - ✅ **Tutorcross moral-story video** — "బీర్బల్ తెలివి" uploaded to Tutorcross **Wed Nov 18** (on her date) · next: "కప్ప – ముత్యం" (script + slides ready)
 - 🗓️ **కప్ప – ముత్యం story video** — MP4 ready (19 Nov) · upload to Tutorcross **Tue Nov 24** (her date, moved 23 Nov — she is out today)
 - ⏸️ **Video 1 voice-over + post** (Yashvi candle-light) — edit done 11 Nov · Yashvi's voice-over not recorded yet (she was not available on the weekend) · **paused** — new date when Yashvi can record (Jayasri, 16 Nov)
 
 ### Orphanage run-up — Jayasri plans and prepares the session (Vamsi, 2026-11-03: she is the event manager)
+
+> ❌ **26 Nov: the orphanage session is cancelled** (Vamsi + Jayasri, discussed 25 Nov). The first session goes **straight to a Sattupalli school in mid-December** instead. The run-up below is kept as history; the hunt cards, character of the plan and question sets carry over to the school session.
 
 A draft plan already exists (Vamsi's, end of Oct, in `Tutorcross-Experiments`):
 ~53 children, ~~Sat 21 Nov~~ **Fri 27 Nov** · groups by colour → energiser → story + 2
@@ -59,7 +61,7 @@ Vamsi's.
 - **Sat + Sun: leave, every week** (Vamsi, 2026-11-03). Working days are Mon–Fri.
 - **Goa: Thu Nov 5 evening → Mon Nov 9 morning** (bus 18:45 Thu Nov 5 · Agonda stay Nov 6–8 · Sun Nov 8 evening bus back, Hyderabad Mon Nov 9 morning — Vamsi, 2026-11-03). No tasks Thu Nov 5 – Mon Nov 9 (Monday is the arrival day, off).
 - **Tue Nov 10: Jayasri took the day off** (with Mon Nov 9, the arrival day). **Sat Nov 14 + Sun Nov 15 were make-up working days in their place, as Vamsi asked** (Vamsi, 2026-11-16).
-- ~~Sat Nov 21~~ **Fri Nov 27** is the orphanage pilot (moved 16 Nov — Vamsi + Jayasri).
+- ~~Fri Nov 27 orphanage pilot~~ — cancelled 26 Nov; first session moves to a Sattupalli school, mid-December.
 - **Fri Nov 20: day off — Yashvi's school annual day.** Jayasri makes it up on a day next week (agreed with Vamsi; the day to confirm) (Jayasri, 20 Nov).
 
 ## Week 1 · Nov 3 – Nov 4 (2 working days before Goa, ~3 h each)
