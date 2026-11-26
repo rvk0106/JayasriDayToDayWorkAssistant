@@ -18,3 +18,4 @@
 | 2026-11-14 | Jayasri | Schools: in December she checks dates, talks with your father, confirms the schools, then the visits. So the "shortlist 🗓️ Nov 14" milestone moves to December too — your goal dates (shortlist Nov 14, 2 finalised Nov 28): move them? | |
 | 2026-11-16 | Jayasri | Orphanage moved to Fri Nov 27 — you message Srinivas garu (your chat with him): the new date, the time (afternoon?), ~1 hour, and his help splitting the children into 5 teams. Tell Jayasri the time he confirms. | |
 | 2026-11-26 | Jayasri | Orphanage session cancelled (decided with you 25 Nov). Please tell Srinivas garu it is off (your chat with him). Mid-December Sattupalli school: which school and which date — after you talk with your father? | |
+| 2026-11-26 | Jayasri | Magic Box: Jayasri tried it on 24 Nov; wants an accurate re-test together before the December school session (Red card + 84# opens · wrong key beeps · all 5 teams' cards). When? | |
