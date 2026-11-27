@@ -22,3 +22,9 @@
 - Decided: ❌ orphanage session (Fri Nov 27) cancelled → first session straight at a **Sattupalli school, mid-December**
 - Open with Vamsi: tell Srinivas garu · which school and date (after talking with his father)
 - Still open from before: కప్ప – ముత్యం upload (MP4 ready)
+
+## 📅 2026-11-27 (Friday)
+
+### 🌙 Day summary
+- Done: admin work Vamsi asked for — scanned his important personal documents to PDF and uploaded them all
+- Open: కప్ప – ముత్యం upload (her date today)
