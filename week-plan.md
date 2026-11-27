@@ -19,7 +19,7 @@
 
 - ❌ ~~Orphanage gifts shopping~~ — not needed, orphanage session cancelled (26 Nov)
 - ✅ **Tutorcross moral-story video** — "బీర్బల్ తెలివి" uploaded to Tutorcross **Wed Nov 18** (on her date) · next: "కప్ప – ముత్యం" (script + slides ready)
-- 🗓️ **కప్ప – ముత్యం story video** — MP4 ready (19 Nov) · upload to Tutorcross **Fri Nov 27** (her date, moved 26 Nov) · title idea: `ముత్యం ఇచ్చిన కప్ప… చివరికి ఏమైందో తెలుసా? | Telugu Moral Stories | Tutorcross`
+- 🗓️ **కప్ప – ముత్యం story video** — MP4 ready (19 Nov) · upload to Tutorcross **Sat Nov 28** (her date, moved 27 Nov — the scanning work took Friday) · title idea: `ముత్యం ఇచ్చిన కప్ప… చివరికి ఏమైందో తెలుసా? | Telugu Moral Stories | Tutorcross`
 - ⏸️ **Video 1 voice-over + post** (Yashvi candle-light) — edit done 11 Nov · Yashvi's voice-over not recorded yet (she was not available on the weekend) · **paused** — new date when Yashvi can record (Jayasri, 16 Nov)
 
 ### Orphanage run-up — Jayasri plans and prepares the session (Vamsi, 2026-11-03: she is the event manager)
